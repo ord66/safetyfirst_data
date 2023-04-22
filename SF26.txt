@@ -1,0 +1,979 @@
+ 
+The Airbus safety magazine 
+
+#26 
+Safety first 
+ 
+Safety first, #26 July, 2018. Safety first is published by Airbus S.A.S. - 1, rond point Maurice Bellonte - 31707 Blagnac Cedex/France. Publisher and Editor: Yannick Malinge, 
+Chief Product Safety Officer. Concept Design by Airbus Multi Media Support 20180451. Reference: X00D16031905 Issue 26. Photos by Airbus, P. Pigeyre, g-stockstudio, H. Goussé, I. Howarth, F. Lancelot. Cover: J. Darcy. 
+This brochure is printed on Stucco. This paper is produced in factories that are accredited EMAS and certified ISO 9001-14001, PEFC and FSC CoC. It is produced using pulp that has been whitened without either chlorine or acid. The paper is entirely recyclable and is produced from trees grown in sustainable forest resources. The printing inks use organic pigments or minerals. There is no use of basic dyes or dangerous metals from the cadmium, lead, mercury or hexavalent chromium group. 
+Safety first 
+The Airbus magazine contributing to the enhancement of the safety of aircraft operations by increasing knowledge and communication on safety related topics. 
+Safety first is published by the Product Safety department. It is a source of specialist safety information for the use of airlines who fly and maintain Airbus aircraft. It is also distributed to other selected organizations and is available on digital devices. 
+Material for publication is obtained from multiple sources and includes selected information from the Airbus Flight Safety Confidential Reporting System, incident and accident investigation reports, system tests and flight tests. Material is also obtained from sources within the airline industry, studies and reports from government agencies and other aviation sources. 
+All articles in Safety first are presented for information only and are not intended to replace ICAO guidelines, standards or recommended practices, operator-mandated requirements or technical orders. The contents do not supersede any requirements mandated by the State of Registry of the Operator’s aircraft or supersede or amend any Airbus type-specific AFM, AMM, FCOM, MMEL documentation or any other approved documentation. 
+Articles may be reprinted without permission, except where copyright source is indicated, but with acknowledgement to Airbus. Where Airbus is not the author, the contents of the article do not necessarily reflect the views of Airbus, neither do they indicate Company policy. 
+Contributions, comment and feedback are welcome. Enquiries related to this publication should be addressed to: 
+Airbus Product Safety department (GS) 1, rond point Maurice Bellonte 31707 Blagnac Cedex - France Fax: +33(0)5 61 93 44 29 
+safetycommunication@airbus.com 
+Safety first app available here 
+
+© Airbus S.A.S. 2018 – All rights reserved. Proprietary documents. 
+By taking delivery of this Brochure (hereafter “Brochure”), you accept on behalf of your company to comply with the following guidelines: 
+No other intellectual property rights are granted by the delivery of this Brochure than the right to read it, for the sole purpose of information. 
+This Brochure and its content shall not be modified and its illustrations and photos shall not be reproduced without prior written consent of Airbus. 
+This Brochure and the materials it contains shall not, in whole or in part, be sold, rented, or licensed to any third party subject to payment. 
+This Brochure contains sensitive information that is correct at the time of going to press. 
+This information involves a number of factors that could change over time, effecting the true public representation. Airbus assumes no obligation to update any information contained in this document or with respect to the information described herein. 
+Airbus S.A.S. shall assume no liability for any damage in connection with the use of this Brochure and of the materials it contains, even if Airbus S.A.S. has been advised of the likelihood of such damages. 
+   
+    
+YANNICK MALINGE 
+SVP & Chief Product Safety Officer 
+editorial 
+Dear Aviation colleagues, 
+Every aviation actor as well as the travelling public observed with great satisfaction the 2017 Commercial Air Transport safety records. It is indeed a great achievement thanks to the combination of everyone’s efforts. 
+Our common challenge is to maintain this previous year’s record, and with no doubt it means avoiding the complacency trap. One of the means to minimize this risk is for each of us to continue to reinforce the sharing of information. 
+With this in mind, and in line with our objective to facilitate information sharing through our Safety first magazine, we are pleased to announce that the magazine is now available on a dedicated website at safetyfirst.airbus.com. The website is complementary to the recently updated Safety first app, which is also available to download now. 
+I encourage you to promote to your colleagues the various ways you can now access to the Safety first information. With your ongoing contribution and commitment to our collective information sharing mission, together we will continue to make commercial air travel safer. 
+ 
+
+
+NEWS 
+ 
+New Safety first website 
+Safety first is now available online (safetyfirst.airbus.com) making the latest digital Safety first articles available on your personal computer. 
+Our new website provides you with the same content that is available on our Safety first app but with the capability to download individual illustrations and infographics published in the articles, which you can reuse in your own safety promotion publications (with an acknowledgement to Airbus Safety first magazine as the source). 
+Downloadable PDF versions of individual articles and of the entire magazine editions are also available on the website for dissemination within your organizations. 
+Promoting and sharing safety information supports our collective efforts to prevent aviation accidents. We hope you will tell all of your aviation colleagues about Safety first and share our updated Safety first app and new website with them. 
+Visit us at http://safetyfirst.airbus.com/ 
+ 
+ 
+   
+Flight operations 
+Cabin Operations 
+Ground Operations Maintenance 
+Safety first#26 
+OPERATIONS 
+P06 
+Look out for Ice Ridges on the Lower Nose Fuselage 
+P14 
+High Load Event Reporting 
+AIRCRAFT 
+P28 
+Using Aircraft as a Sensor on Contaminated Runways 
+PROCEDURES 
+P38 
+Thrust Reverser Deployment in Flight 
+Safety first #26 | July 2018 005 
+ 
+     
+OPERATIONS 
+Look out for Ice Ridges on the Lower Nose Fuselage 
+              
+Look out for Ice 
+   
+Ridges on the Lower 
+Nose Fuselage 
+
+Ice ridges on the lower nose fuselage can cause Computed Airspeed (CAS) values delivered by the ADRs to be lower than the actual airspeed which may lead to unreliable airspeed events. This article describes the potential effect on the aircraft’s systems from the takeoff phase and how to prevent such situation. 
+    
+ANALYSIS OF AN EVENT 
+Event Description 
+The crew of an A320 arrived at the aircraft to start a new day of flight early on a winter’s morning in Northern Europe. The ground temperature was reading -5°C and their aircraft was still covered with snow and ice from the overnight layover. 
+A two steps de-icing/anti-icing was performed before departure. Sprayed areas were the wings, vertical fin and horizontal stabilizers. The fuselage areas were not de-iced. 
+With the ground servicing complete, the flight crew proceeded to takeoff. At lift-off, the flight controls law reverted to alternate law and the AUTO FLT A/THR OFF ECAM caution triggered. 12 seconds later, the Flight Directors (FD), Characteristic Speeds, TLU function and Autopilot availability were also lost. The FD and SPD LIM red flags were displayed on both PFD (fig.1) and at the end of the ECAM take-off inhibition phase, when the aircraft reached 1500ft, three ECAM alerts were displayed: 
+• • • 
+The flight crew identified an airspeed discrepancy issue and then compared PFD1, PFD2 and the standby speed indications with the ground speed on the navigation display. They proceeded to switch off ADR 1+3 and performed an in-flight turn-back with the ADR2 ON. 
+Safety first #26 | July 2018 007 
+ 
+NAV ADR DISAGREE 
+
+F/CTL ALTN LAW 
+
+AUTO FLT RUD TRV LIM SYS 
+(fig.1) 
+Impact on the PFD indications: SPD LIM and FD red flags, empty FMA and amber crosses of the alternate law 
+  
+
+OPERATIONS 
+Look out for Ice Ridges on the Lower Nose Fuselage 
+
+(fig.2) 
+Comparison between recorded ADR1 & ADR3 airspeeds and the simulated airspeed 
+Flight Data Analysis and Investigation: 
+The analysis of the flight recorder’s data shows successive discrepancies during the takeoff roll and takeoff phase between ADR1 and ADR 3 airspeeds. The ADR2 airspeed is not recorded in the DFDR. 
+For investigation purposes, the airspeed during the take-off was simulated based on an aerodynamic model of an A320 and using the recorded pitch and stick inputs from the event. 
+The resulting Computed Airspeed (CAS) from the simulation, representative of the actual airspeed is shown in blue on the graph (fig.2). This was compared to the recorded CAPT CAS (from ADR1) shown in red and ADR3 CAS, which is shown in green on the graph (fig.2). 
+From the beginning of the take-off roll, ADR3 airspeed is perpetually underestimated up to 40kts and ADR1 airspeed is underestimated from take-off roll up to 10kts and from rotation up to 35kts. 
+ 
+A large majority of ice ridges related 
+events occurred during the first flight of the day. 
+The investigation concluded that the root cause of such speed discrepancies was the build-up of ice ridges on the lower nose fuselage in front of the Pitot probes and lower nose fuselage not de-iced before departure. This creates airflow perturbations and causes airspeed computed value to be lower than the actual airspeed. 
+ICE RIDGES PHENOMENON 
+Root Cause 
+The main cause of ice ridges over the lower nose fuselage of the aircraft is ice accretion during a long stay on ground in cold conditions (fig.3). A review of in-service events from the last 6 years shows that a large majority of ice ridges related events occurred during the first flight of the day. 
+Reported events also show that ice ridges may be dislodged during the flight or may remain attached to the lower nose fuselage for the entire flight (fig.4). 
+
+Safety first #26 | July 2018 009 
+ 
+(fig.3) 
+Example of thin ice ridges forward of the pitot probes of an A320 family aircraft 
+(fig.4) 
+Example of ice ridges that remain on the lower fuselage even after completing a flight. 
+A second possible cause of reported ice ridge related events is when snow falling on a heated windshield melts and the water running down from the windshield refreezes in ridges on the lower fuselage. The caution note of the FCOM PRO-SUP Adverse Weather-Cold Weather describes this phenomenon. 
+Effects of the Ice Ridges 
+The presence of ice ridges located forward of the Pitot probes on the lower nose fuselage creates airflow perturbations (fig.5) and may lead to airspeed data from the ADR of the impacted probe(s) to be lower than the actual airspeed. 
+The effect of ice ridges on the measured airspeed value will depend on the location, shape and number of ice ridges present. A large ice ridge but also successive thin ice ridges can significantly impact the airspeed measurement. 
+Regarding the effect of airflow perturbation caused by ice ridges, theoretically they could also affect the static ports or AOA sensors, but in-service data shows no effect on static pressures and rare effect on AOA measurements. 
+All “ice ridge” related in-service events that were reported to Airbus occurred on A320 family aircraft with the exception of one A330 event. However, we cannot rule out potential effects of ice ridges on the Multifunction Probes (MFP) installed on the A380 and A350 families, even if they are of a different design to the probes installed on other Airbus aircraft families (A300/A310/A320/A330/A340). 
+A large ice ridge but also successive 
+thin ice ridges can significantly impact the airspeed measurement. 
+
+(fig.5) 
+Effects of the ice ridges on the airflow forward of the Pitot probes 
+Pitot probe 
+ 
+Pitot probes 
+                         
+Ice ridges 
+   
+Ice ridges 
+Aircraft skin 
+View from below 
+
+OPERATIONS 
+Look out for Ice Ridges on the Lower Nose Fuselage 
+EFFECTS OF ICE RIDGES PERTURBATIONS ON THE AIRCRAFT SYSTEMS: 
+The perturbation of the airflow in front of the Pitot tubes/MFPs can lead to the following effects on the aircraft systems: 
+A300/A310 aircraft family: 
+On A300/A310 aircraft, in addition to the erroneous airspeed indication, if one Pitot is impacted, the affected ADC sends an incorrect speed to the associated Auto Flight System (AFS1 for ADC1 and AFS 2 for ADC2). The flight crew must select the opposite AFS that uses a correct speed. Moreover, switching manually to the non-impacted ADC displays a correct airspeed on the affected PFD. 
+If both ADC1 and ADC2 are impacted, the AFS must not be used by the flight crew as per FCOM procedure. 
+A320/A330/A340 aircraft families: 
+If one probe is affected, there is no associated system loss  
+If two or three Pitot probes are affected, the Auto Flight System and Electrical Flight Control System may reject the 3 ADRs. This can result in the following:  
+
+- Loss of Autopilot - Loss of Flight Directors - Loss of Auto-thrust 
+A380 aircraft family: 
+- Loss of computation of the Characteristic Speeds 
+- Loss of the rudder travel limiter function - Reversion to manual Alternate Law 
+A380 aircraft has four airspeed probes (3 MFPs + 1 Pitot tube for ISIS) as a consequence: 
+• If one or two probes are affected, there is no associated system loss • If three or four probes are affected, this results in the following: 
+- Loss of Autopilot - Loss of Characteristic speeds computation - Loss of Flight Directors - Reversion to manual Direct Law - Loss of Auto-thrust 
+A350 aircraft family: 
+A350 aircraft also has four airspeed probes (3 MFPs + 1 Pitot tube for ISIS) but uses a different speed monitoring. As a consequence: 
+• If one or two probes are affected, there is no associated system loss • If three sources are affected (3 MFPs or 2 MFPs + ISIS Pitot): 
+- Reversion to Alternate Law 
+- CAT I only • If the four probes are affected, this results in the following: 
+- Automatic display - Loss of Flight Directors 
+of the Backup Speed scale - Loss of Autopilot 
+- Loss of Auto-thrust - Reversion to manual Direct Law 
+
+Preventing Unreliable Airspeed Events Due to Ice Ridges 
+The presence of ice ridges in front of Pitot probes during flight can occur when the lower nose fuselage is not de-iced at all or not completely de-iced. This is why all personnel working to dispatch an aircraft, from maintenance staff to flight crew, should pay particular attention to the potential presence of ice ridges in cold weather conditions, especially for the first flight of the day or after an extended stay on ground. The lower nose fuselage must be clear of ice before departure to avoid unreliable airspeed situation due to ice ridges and even thin ice ridges must be removed before departure. 
+Maintenance & De-Icing Crew: 
+The maintenance crew shall follow the guidelines in the AMM/MP Procedure 12-31-12 ICE & SNOW REMOVAL - MAINTENANCE PRACTICES to remove the snow and de-ice the aircraft. 
+On A320, A330 and A340 aircraft families, a dedicated AMM procedure 12-31-12-660-008-A - Forward Fuselage Ice Accretion De-Icing provides guidelines for removing ice and snow from the forward fuselage. 
+While performing ice removal from lower nose fuselage it is recommended that: 
+- The operator should spray the de-icing fluid from the rear to the front to avoid contaminating the Pitot tube 
+- Never spray de-icing fluid directly on static probes and AOA probes to avoid contamination 
+More generally, the AMM of all Airbus Aircraft types will be enhanced to highlight Ice ridges phenomenon and to provide additional guidelines for de-icing operation. It will be also highlighted that while thin hoarfrost is permitted for example on the top surface of the fuselage, it must be distinguished from thin ice ridges that must be removed from lower nose fuselage. 
+Flight Crew: 
+The FCOM and FCTM of all Airbus aircraft are being updated to take into account the lessons learnt from these events. 
+• Modification of FCOM: 
+The FCOM (A320/A330/A340/A350/A380: Supplementary Technique – Adverse Weather - Cold Weather Operations, A300/A310: Procedures and Techniques - Inclement Weather Operation - Aircraft Preparation for Cold Weather Operation) is being modified to explain that, during the exterior walkaround in cold weather conditions, the flight crew must check that there are no ice ridges on the lower nose fuselage, in front of the air probes. If ice ridges are detected, the flight crew must ask the de-icing personnel to remove them. 
+Lower nose fuselage check should be performed carefully because ice ridges can be difficult to see, especially on a white fuselage during night time 
+The lower nose fuselage must be 
+clear of ice before departure to avoid unreliable airspeed situation due to ice ridges and even thin ice ridges must be removed before departure. 
+Safety first #26 | July 2018 011 
+
+During the exterior walkaround 
+in cold weather conditions, the flight crew must check that there are no 
+ice ridges on the lower nose fuselage, in front of the air probes. 
+
+OPERATIONS 
+Look out for Ice Ridges on the Lower Nose Fuselage 
+• Modification of FCTM: 
+The FCTM (A320/A330/A340/A350/A380: PRO – SUP - Adverse Weather - Cold Weather Operations and icing conditions section, A300/A310: Supplementary Information - Inclement Weather Cold Weather Operations And Icing Conditions) is being updated to explain the effect of ice ridges in front of Pitot probes on the airspeed measurement and the potential subsequent unreliable airspeed situation. 
+What to do in the case of an unreliable speed 
+event during takeoff? 
+The means to prevent ice ridges described in this article can reduce the likelihood of unreliable airspeed events related to this phenomenon, however in any event where an airspeed discrepancy is detected by the flight crew, the UNRELIABLE SPEED INDICATION must be applied. Refer to FCOM UNRELIABLE SPEED INDICATION procedure and associated FCTM chapter for more information on the procedure application. 
+  
+
+Safety first #26 | July 2018 013 
+The potential consequences of ice ridges located forward of the Pitot probes (or MFPs) on the lower nose fuselage is not very well known by flight crews, maintenance and ground personnel. It is important to be aware that these ice ridges may create airflow perturbations forward of the probes. This can lead to the airspeed data coming from the ADR (or ADC) associated with the affected probe, or probes, to be at a value that is significantly lower than the actual airspeed. The outcome may be an unreliable airspeed situation from take-off, or later during the flight, with its related effects on the aircraft systems. 
+The FCOM and FCTM are being updated to raise awareness of this phenomenon. They highlight the need to pay particular attention to this area when performing the walk around in cold weather conditions. If the flight crew observes (even thin) ice ridges, they must ask the ground personnel to remove them before departure. 
+An update of the AMM will also highlight this phenomenon and provide additional guidance for de-icing the lower nose fuselage area. 
+CONTRIBUTORS: 
+Panxika CHARALAMBIDES 
+Director Flight Safety Accident/Incident Investigation Product Safety 
+Adrien CHEN 
+Director Product Safety Enhancement Product Safety 
+David MARCONNET 
+Manager Safety Enhancement Flight Operations Support 
+Aymeric JACQUOT 
+Air Data and Inertial System Engineer Design Office 
+Remy DAYRE 
+Aircraft Control System Engineer Design Office 
+With Thanks to Eric LATRE and Marc LE-LOUER from the Flight Operations Support Department 
+ 
+OPERATIONS 
+High Load Event Reporting 
+      
+High Load Event Reporting 
+All pilots will encounter high load events over their flying career. The evaluation of the aircraft’s airworthiness following these events is enabled by the pilot’s report of any speed exceedance and excessive vertical or lateral accelerations caused by turbulence and hard landings. This article describes how to recognize and respond 
+to all types of high load events and the evolution of the information available to support analysis of events, which will determine what maintenance actions are necessary 
+ 
+to ensure an aircraft is safe to fly. 
+
+WHAT IS A HIGH LOAD EVENT? 
+A high load event is any event that is outside of range of the load conditions an aircraft will experience in normal operations. The aircraft is designed to withstand a certain level of excessive loads in abnormal conditions or situations but this loading can have an effect on the components of the aircraft’s structure, engines, engine mounts, pylons and its systems. When such a high load event occurs, with forces that exceed these thresholds, action is required to ensure the aircraft remains in a state continued airworthiness. 
+High load events can occur when an aircraft is either in flight or on the ground. For instance, a flight load exceedance may occur if the aircraft encounters severe turbulence and crosswind conditions, or when flown above its operational speed limits. This includes events where the aircraft’s airspeed was above the allowable limits for extending or operating flaps, slats or the landing gear. A high load event on the ground is most commonly a hard landing or hard overweight landing, but it can also be caused by abnormal lateral loading when landing or taxing in severe crosswinds. 
+The Importance of the Pilot’s Report 
+The reporting of high load events relies on the pilot’s awareness and experience as the primary means of detection. It is the responsibility of every pilot to report high load events by making a logbook entry. This will initiate an evaluation of the event on the ground that will determine what maintenance actions are required. A timely pilot report (or PIREP) of any high load event enables efficient evaluation that allows the aircraft to more rapidly return to operations when the required maintenance tasks are complete. This will also reassure the pilot that the aircraft remains in a continuous airworthy condition. 
+What happens following a pilot’s report of a high load event? 
+Evolution of aircraft technology has introduced sensors and more sophisticated means of generating high load event alerts, but it’s the pilot’s ability to observe or sense a high load event, manage the event and then report it that is paramount. The pilot’s report has remained the certification baseline for managing high load events on all Airbus aircraft families from the A300 / A310 and up to the latest A350 XWB. This is common practice across the industry for all aircraft. 
+... it’s the pilot’s ability to observe 
+or sense a high load event, manage the event and then report it that is paramount. 
+All aircraft are designed, tested and certified to avoid the possibility of exceeding its structural strength. Operational thresholds or limits define the envelope for the load conditions in normal operations, and there are design margins to cope with abnormal or excessive loads on the aircraft if they are experienced in-flight or on the ground. 
+The Pilot’s report of a high load event in the logbook is the starting point to commence an evaluation of the event and determine if the abnormal load has affected the structure or systems of the aircraft. Early reporting enables efficient evaluation of the event by maintenance personnel and it can allow the aircraft to more rapidly return to service when the required maintenance tasks are completed. 
+Safety first #26 | July 2018 015 
+ 
+
+OPERATIONS 
+High Load Event Reporting 
+
+(fig.1) 
+High load events related to aircraft speed exceedance include: 
+There have been successive improvements in sensing and recording high load event data, including the LOAD <15> reports introduced on A320 and A330/ A340 aircraft families and the Smart Access Recorder (SAR) data available on the A380 and A350 XWB. This data is provided to support the airline’s maintenance control evaluation and classification of a pilot reported high load event. The event’s classification will allow the airline’s maintenance personnel to more precisely determine which maintenance actions are necessary to ensure the aircraft’s continued airworthiness. 
+On the latest Airbus aircraft families of the A380 and A350 XWB, there is the capability to transfer recorded data from the aircraft’s Smart Access Recorder (SAR) to dedicated diagnostic ground support tools. These software tools will analyse the event’s recorded data and provide an optimised list of the maintenance actions that will focus only on the areas of the aircraft that were most likely affected. This detailed information provides more autonomy to the airlines in managing their pilot reported high load events and it minimises the time the aircraft is required to be on the ground for maintenance. 
+TYPES OF HIGH LOAD EVENTS 
+The type of high load event will be described by the Pilot Report (PIREP). There are generally two categories of high load events; those related aircraft speed exceedance (fig.1) and others related to rapid vertical or lateral accelerations of the aircraft (fig.2). 
+
+**Note: There is a VFE value per flaps/slats configuration 
+(fig.2) 
+High load events related to rapid vertical or lateral accelerations of the aircraft include: 
+
+Avoidance of any high load event is often related to the pilot’s own awareness of the prevailing conditions and their effective management of the aircraft’s energy. In some cases, the conditions leading to a high load event are difficult to anticipate, such as inadvertently flying into pockets of severe clear air turbulence, or sudden crosswind gusts shifting the alignment of the aircraft moments before a touchdown. In the absence of these abrupt and unpredictable natural phenomena, a high load event is often the inevitable outcome for any flight crew who may not have effectively managed the aircraft’s energy, or if they have made a sudden and excessive control input inflight. 
+ 
+
+RECOGNISING AND RESPONDING TO HIGH LOAD EVENTS 
+Severe Turbulence High Load Events 
+Severe turbulence causes large, abrupt changes in altitude or attitude of the aircraft, often associated with variations in airspeed. Characteristically, turbulence can be considered as excessive or severe if passengers and crew report that they were moved violently against their fastened seatbelts or untethered objects were moved around the cabin with force. 
+What to do in case of severe turbulence high load events? 
+After experiencing a severe turbulence event, the pilot should make a logbook entry to trigger the evaluation of the event and assess the relevant maintenance actions to carry out when the aircraft arrives at its destination. If the event is classified as severe turbulence, the AMM / MP maintenance procedure will recommend contacting Airbus for support. The analysis of the recorded flight data by Airbus will assist the airline in identifying the areas of the aircraft that were most likely affected by the event. Airbus will also advise which supplementary maintenance actions should be completed with a tailored list of items that focus on the areas of the aircraft that were affected. 
+VMO | MMO Speed Exceedance High Load Events 
+Although intentional VMO | MMO exceedance cases are uncommon, this speed value can typically be overshot when the aircraft is subject to unpredictable conditions such as sudden changes in outside air temperature or wind strength and direction. At lower altitudes, exceeding VMO | MMO can cause a significant high load event. 
+Whilst it is important to always respect VMO | MMO flight crew should keep in mind that a slight and temporary speed or Mach exceedance at high altitude will not lead the aircraft into an imminent hazardous situation. The aircraft is designed to fly safely at high altitude within a margin above VMO | MMO, as it must meet certification requirements to ensure that the aircraft remains safe to fly up to its design limit speed, or VD | MD. 
+What to do in case of VMO | MMO speed exceedance high load events? 
+If VMO | MMO is exceeded, an over speed warning is triggered in the cockpit that alerts the crew. The FCOM, QRH and FCTM provides pilots with procedures and the guidelines to both prevent and to recover from a speed excursion and describes how to calmly manage unexpected variation of airspeed. Any type of over speed must be reported by the flight crew so that analysis of flight data can allow maintenance to tell whether or not there was a high load event, and if maintenance actions are required when the aircraft is on the ground. 
+For information on managing threats to the airspeed and avoiding speed excursions, refer to the “Control Your Speed in Cruise” article published in Safety first issue #21, which includes tips for “How to anticipate a speed excursion”. 
+Safety first #26 | July 2018 017 
+  
+A modified LOAD<15> report triggering will introduce the means to detect high lateral loads on A320 family aircraft 
+
+OPERATIONS 
+High Load Event Reporting 
+ 
+High loads event AMM tasks 
+AMM 05-51-11 Inspection after hard landing or hard overweight landing 
+AMM 05-51-12 Inspection after landing gear speed exceedance 
+AMM 05-51-13 Inspection after flap/slat speed exceedance 
+AMM 05-51-17 Inspection after turbulence or speed exceedance 
+AMM 05-51-44 Inspection after in-flight lateral loads 
+As a general rule, reported high load events requiring maintenance actions are referenced in any AMM/MP within chapter 05-51-xx 
+Flaps or Slats Extended Speed Exceedance High Load Events 
+In the case of take-off, where the auto thrust is not active, flying with slats and flaps extended or extending slats and flaps above VFE poses a risk of overloading the aircraft’s structure through the slats and flaps track mechanisms. This could result in distortion of the flaps and slats, the extension mechanisms or potentially the structural components they are attached to. 
+What to do in case of flaps or slats extended speed exceedance high load events? 
+If VFE is exceeded, an over speed warning is triggered in the cockpit that alerts the crew to take corrective action by reducing speed or retracting the flap and slats accordingly. The pilot should also report this high load event caused by VFE exceedance in the logbook in case specific maintenance actions and trouble- shooting procedures need to be performed before the aircraft can continue operations. 
+Landing Gear Operated or Extended Speed Exceedance High Load Events 
+A high load event can occur if the landing gear is extended or retracted while the aircraft’s speed is more than the maximum speed limit for operating the landing gear (VLO / MLO), or when an aircraft with its landing gear down and locked increases its speed above the maximum limit that it can fly with its landing gear extended (VLE / MLE). 
+What to do in case of landing gear operated or extended speed exceedance high load events? 
+If landing gear is operated or extended when the aircraft’s speed is exceeding the allowable limit, an over speed warning is triggered in the cockpit that alerts the crew to take corrective action by reducing speed or retracting the gear. These abnormal events should be reported by the pilot as a logbook entry to be assessed maintenance personnel and determine which maintenance actions are requested by the AMM / MP. 
+In-flight Lateral High Load Event 
+Typical examples of conditions that can cause high lateral loads inflight include heavy turbulence in flight or large movements in yaw and roll, system failures such as rudder trim run-away with crew take-over. In all cases, the pilot report is the trigger for an assessment of the event’s severity. 
+What to do in case of in-flight high lateral load events? 
+If a pilot senses that the aircraft experiences high lateral accelerations inflight, which are abnormal or excessive, they should report the event as a logbook entry. It should be noted that currently on the A320 family, a LOAD<15> report will not be generated high lateral accelerations if the loads were only lateral and without associated vertical accelerations above the limits. If there are high vertical accelerations above the limits during the turbulence event, then an automatic LOAD<15> report is generated, and the recorded high lateral accelerations can be checked. If the pilot reports that the aircraft experienced high lateral acceleration on the ground, then this should be analysed in accordance with the AMM / MP hard landing inspection criteria. 
+Hard Landing or Hard Overweight Landing 
+What differentiates a hard overweight landing from a hard landing? In the case of an in-flight turn back or diversion, a hard overweight landing may be unavoidable with the on-board fuel load. A hard landing can occur as a result of an unstable approach or if there are sudden lateral accelerations at the touchdown caused by severe crosswind gusts. 
+What to do in case of in-flight hard or overweight landing high load events? 
+In order to minimise the impact of unavoidable overweight landing events, it is recommended that the flight crew limit the vertical speed and ensure a symmetrical landing. After the flight crew report a hard or hard overweight landing, make an analysis of the landing’s parameters from the LOAD<15> report or the SAR file and check the applicable AMM / MP to determine what maintenance tasks are required. 
+Safety first #26 | July 2018 019 
+ 
+More detailed operational and maintenance recommendations for managing hard landings are available in the article “Hard Landing, a Case Study for Crews and Maintenance Personnel” published in Safety first issue #17. 
+   
+
+OPERATIONS 
+High Load Event Reporting 
+ 
+Linton Foat 
+Flight Operations Governance, Compliance & Risk Manager Captain - Airbus Fleet Thomas Cook Airlines - Condor 
+Encouraging Exceedance Event Reporting 
+Thomas Cook Airlines (TCX) operates the A321 on a medium range sectors such as Dalaman, Turkey (LTBS) to Manchester in the United Kingdom (EGCC). A fully loaded aircraft is operated close to the A321’s Maximum Take-off Weight (MTOW), especially when flying out of warmer climate airports. With the combination of higher outside air temperatures and a heavy payload, ‘S’ speed (slat retraction speed) can be close to the flap-slat limiting speed or VFE. TCX pilots are reminded to ensure they have a clean configuration with the flaps fully retracted before accelerating on the climb and avoid the risk of an over speed with flaps extended. 
+On the occasion when there is an over speed, the Commander will make a logbook entry during the flight in the electronic technical log for maintenance action. TCX pilots are also requested to send an ACARS message to their operations control centre to alert maintenance that an over speed had occurred and that maintenance actions will be required at the destination airport. This is also the case when the flight crew experience severe turbulence during their flight or have a VMO | MMO exceedance in cruise. 
+This early contact via ACARS facilitates additional time for maintenance operations to arrange for the appropriately qualified technicians to meet the aircraft upon its arrival and commence the maintenance actions. Being alerted ahead of time means that the ground engineers will have the opportunity to review the aircraft maintenance manual prior to the aircraft landing. This proactive coordination ensures that all of the equipment is available and maintenance personnel are ready to complete the tasks upon the arrival of the aircraft at its destination, assuring a timely assessment of the aircraft’s continued airworthiness. Once the required maintenance activities are satisfactorily completed, and if there is no further rectification required, the aircraft is released back into line operations. 
+Thomas Cook Airlines encourages their pilots to report all defects or high load event with the confidence that their actions are putting safety at heart. We acknowledge that our pilot willingness to report events is essential and we fully encourage open and honest reporting to ensure our aircraft continue operating safely. “Safe at Heart” is the core philosophy of our company wide safety management system. The Safe at Heart message fosters a culture within the Thomas Cook family where we put safety at the heart of everything we do. 
+
+Picture courtesy of Thomas Cook Group 
+ 
+
+EVOLUTION OF THE HIGH LOAD REPORT & ANALYSIS 
+Safety first #26 | July 2018 021 
+
+(fig.3) 
+Info-graphic showing the evolution of high load event reporting and analysis across the successive Airbus Aircraft families 
+    
+
+OPERATIONS 
+High Load Event Reporting 
+Airbus recommends 
+that airlines check that their fleet has a consistent configuration 
+to produce the LOAD<15> report at the required time... 
+For the A300/A310 aircraft, assessment of the maintenance actions required following a high load event relies completely on the pilot’s report of the event and their recorded observations. Through many years of in-service experience, the scope of the maintenance actions have been optimised as far as possible to reduce the time necessary to complete the associated tasks. The maintenance actions will focus on the critical components that could have been affected during the event. If there are no defects found, then the aircraft can return to service with a shorter amount of time required on the ground. 
+On all of the Airbus aircraft families since the A300 / A310, we still rely on pilot’s report and their recorded observations for managing high load events (fig.3). Using the available technology at the time of an aircraft’s design phase, increasingly sophisticated means of high load sensing and recording were implemented, for example, the LOAD<15> report for A320 and A330/A340 families. For A330 / A340 aircraft, certain flight load events are generating a LOAD<35> report, for example VMO | MMO exceedance. 
+On the latest A380 and A350 XWB aircraft, the post-event analysis is further assisted by ground-support software tools. These tools will use flight data from a Special Access Recorder (SAR) to assess which of the aircraft’s components were affected during the high load event. The resulting report provides an optimised list of targeted maintenance actions to perform that focuses on these areas. 
+A320 | A330 | A340 LOAD<15> Report 
+A high load event printed report, or LOAD<15> report can be customised and configured according to the operator’s preferences. Airbus recommends that airlines check their fleet has a consistent configuration to produce the LOAD<15> report at the required time on all of their aircraft. The configurable settings include choosing if to print a report immediately after a high load event or only upon landing. The report’s triggering limits are set by default to the values in the Aircraft Maintenance Manuals (AMM). However, these can be adapted by the operators to lower the LOAD<15> report’s triggering thresholds, should more sensitive data monitoring be needed to pre-emptively identify any adverse operational trends. In practice, this generates more load reports and it could rapidly increase the number of operational load events to be analysed by the airline’s maintenance control. 
+When flight crew report a hard landing or hard overweight landing, the maintenance personnel will use AMM instructions to analyse the LOAD<15> report and determine if any maintenance actions are necessary. The purpose of this report is to assist the decision making regarding the AMM tasks that should be carried out. Any intentional inhibition of the LOAD<15> report could therefore be detrimental to the accuracy of the analysis and this may adversely affect the dispatch time. If the LOAD<15> report is not generated, this does not always mean that there was not a high load event that could have caused a load exceedance. In all cases, the pilot’s report remains the primary means for detecting a high load event and the LOAD<15> only supports the post flight analysis of the event. 
+If the assessment of the event in accordance with the maintenance manual requires maintenance actions and inspections, these are divided into four major zones to include fuselage, wings, nacelles-pylons and stabilizers. The inspection items are categorised into three phases (fig.4). 
+
+If the LOAD<15> report is not 
+generated, this does not always mean that there was not a high load event ... 
+If no defects or damage is found during the inspection of the phase 1 items, then no further examination is necessary. If defects or damage is noted during the phase 1 inspections, then the phase 2 items must be completed. Depending on the severity of the event, it may be necessary to complete Phase 1 and Phase 2 inspections concurrently. Phase 3 inspection items must be accomplished only if defects or damage are noted during the phase 2 inspections. The AMM will advise if it is necessary to contact Airbus. 
+(Fig.4) 
+Inspection items are categorised into 3 phases following a high load event report and LOAD<15> report analysis on A320 | A330 | A340. 
+Phase 3 AMM Inspection Items 
+Safety first #26 | July 2018 023 
+   
+Phase 1 AMM Inspection Items 
+Phase 2 AMM Inspection Items 
+
+The capability to transmit LOAD<15> reports by ACARS, combined with ground support tools for readout (e.g. AIRMAN), allows an airline to anticipate the maintenance actions required after a report is received. Maintenance personnel can prepare themselves and be ready to commence maintenance activity shortly after the aircraft arrives. 
+A380 Load Analysis Tool 
+Airbus developed software called Load Analysis Tool (LAT) for the entry into service of the A380. After a high load event is reported by an A380 crew, the LAT tool uses data from the aircraft’s Special Access Recorder (SAR) to calculate the magnitude of the loads that may have affected areas of the aircraft’s structure or systems during the event. If any of the aircraft’s components were excessively loaded or stressed, it automatically provides a load report with cross-references to the relevant AMM subtasks that focus on the most affected areas. 
+A350 Structural Overload Monitor Function 
+The Structural Overload Monitor Function (SOMF) tool was developed for the A350 XWB. The SOMF tool uses the data recorded from a high load event on the Special Access Recorder SAR to produce a comprehensive load report. The detailed analysis in the report supports a more rapid return to service by listing the specific maintenance actions that are relevant to the event meaning that it describes the precise task to carry out for specific areas of the aircraft structure or systems that may have been exposed to any load exceedance. 
+Using Smart Access Recorder Data to Analyse High Load Events on A380 & A350 XWB 
+As for any other aircraft, the starting point is the pilot’s report (or PIREP) of the event describing the conditions of the event, the configuration of the aircraft and the aircraft’s situation following the event. 
+ 
+Structural 
+Assess the level of structural loads sustained by A/C. 
+Overload Monitoring 
+Function Final function 
+is to generate a report with focused inspection program. 
+   
+Determine if design envelop has been exceeded and which areas have been overloaded. 
+Allow the operator to monitor abnormal events on its fleet. 
+
+OPERATIONS 
+High Load Event Reporting 
+To assess the event and determine if additional maintenance actions are necessary, additional assistance is available using software tools called LAT on A380 and SOMF for the A350 XWB aircraft by following these steps: 
+
+• • 
+• • 
+Use the flowcharts published in AMM / MP 05-51 and follow the guidelines step by step after any high load event PIREP The maintenance actions in the AMM / MP may request maintenance to download the SAR file from the aircraft onto a writable CD-ROM for A380, or transfer the file to a USB key for A350 XWB 
+The downloaded SAR file is then sent to the Airline’s maintenance centre responsible for assessing reported high load events The maintenance centre can then process the generated SAR file using LAT for an A380 event or SOMF for an A350 XWB event and produce a load report with descriptions of which maintenance actions are required and if it is advisable to contact Airbus for additional support (fig.5). 
+Airbus of the event and send event data for analysis [A380] Inspect areas listed as Phase 1 
+(fig.5) 
+Descriptions of which maintenance actions can be required from LAT or SOMF analysis and report 
+& Phase 2 by the LAT report 
+[A350 XWB] Perform RED & AMBER inspections listed in the SOMF report 
+Inspect any additional areas as advised by Airbus following the analysis of the event 
+[A380] Inspect areas listed as Phase 1 by the LAT report 
+[A350 XWB] perform AMBER inspections listed in the SOMF report 
+Follow any supplementary instructions provided by Airbus 
+Only preliminary inspection tasks are necessary that are listed in the AMM / MP 
+Refer to ISI 05.51.00019 for SOMF and ISI 05.51.00001 for LAT 
+A380 LAT or A350 XWB SOMF Reports 
+The LAT or SOMF will display a Load Report that will list the details of the “Aircraft and Event Information”, an “Event Assessment – Summary”, which describes severity of the load exceedance or “overload”, the list the AMM / MP subtasks that are required and if it is advisable to contact Airbus before commencing the next flight. 
+LAT for the A380, and SOMF for A350 XWB, are free of charge software tools made available to operators of these aircraft at entry-into-service and via the Airbus World portal. 
+
+
+Notify 
+   
+A350 XWB Optional Automatic Report Analysis 
+The A350 XWB has a configurable option that can automatically transfer the relevant Smart Access Recorder (SAR) data of a high load event to the airline’s Maintenance Control Centre (MCC) via the IPCOM system. The SAR data file will be received in the ‘inbox’ of the data repository at the MCC and it is automatically analysed by SOMF application. An alert with the resulting the load report can be immediately sent by email to a distribution list defined by the airline (fig.6). 
+This can help to prepare the maintenance teams who will be ready to perform the required maintenance actions as soon as the aircraft arrives at its destination. It reduces the risk of operational delays and allows the aircraft to be promptly returned to service if no defects or damage are found. The generated SOMF report will be stored in the data repository ‘outbox’ together with its associated SAR file. The archived load reports and SAR file can be easily recovered for data analysis to monitor trends or identify any common causes for a sharp increase of particular high load events observed across the fleet. 
+Safety first #26 | July 2018 025 
+
+(fig.6) 
+
+
+IPCOM 
+(below) the optional automatic report SAR analysis process available on A350 XWB 
+  
+SAR 
+Data Repository 
+
+SOMF Report 
+       
+SAR 
+SOMF user 
+SOMF Server Application 
+
+Event Analysis 
+
+SOMF Report 
+
+Alert By email 
+ 
+Main objectives of a HQA 
+Understand an event and its origin  
+Provide information to airlines on operationalbest practices to avoid a re-occurrence  
+Monitor the fleet and system design consistency  
+
+OPERATIONS 
+High Load Event Reporting 
+ 
+For more information about the Airbus Handling Qualities Analysis (HQA), refer to the article in Airbus Technical Magazine - FAST #53 Available on airbus.com 
+(fig.7) 
+An example of a Handling Qualities Analysis of wind evolution using flight recorder data from an excessive turbulence event shoeing that the aircraft experienced several vertical gusts at 4kt/s, which were mainly updrafts (1). The headwind sharply increased from 10kt to 65kt at a rate of ~4kt/s (2) then changed to a 35kt tailwind, with a gradient of 100kt in 35sec at ~3kt/s and significant gusts (3). The right crosswind component was around 15kt before encountering 
+the turbulence when it increased up to 25kt with several gusts of up to 40kt (4). 
+AIRBUS ASSISTANCE FOR HIGH LOAD EVENT ANALYSIS 
+If a high load event is classified as “severe” or “red” status following the analysis of the data from an in-flight speed exceedance, severe turbulence, strong crosswind lateral loads and overweight or hard landings, Airbus will assist airlines with their analysis of the reported event. Airline maintenance personnel should contact Airbus via AIRTAC following a reported event when it is requested by the AMM / MP maintenance actions in chapter 05-51. 
+Handling Qualities Analysis 
+Beyond the technical assistance in response to the AMM / MP maintenance actions, Airbus offers to help airlines better understand their high load events through a detailed analysis, mainly based on raw data extracted from the Flight Data Recorder. This Airbus activity is called a “Handling Qualities Analysis” (HQA) for specific in-service events. 
+A HQA report from Airbus can be requested by Airlines for the high load events leading to additional maintenance actions, including load exceedance from significant over-speed, abnormal overweight or heavy landings, severe turbulence with excessive flight parameter deviations or for any incident where there were injuries caused to passengers and crew. 
+The HQA, based on the FDR raw data readout (fig.7), is carried out in parallel with the load analysis generally required for structural inspections. The aircraft’s release back into to service is out of the scope of the HQA. The main objectives of the HQA are to understand an event and its origin and to provide information on operational best practices to the airline to avoid re-occurrence. Through the HQA activity Airbus proactively supports airlines in maximizing the efficiency of their operations as well as monitoring the fleet for system and design consistency, with enhancing safety as its primary objective. 
+ 
+
+Airlines regularly train their pilots to avoid the conditions that can lead to high loads on the aircraft, but if a high load event occurs, it is important that pilots are also aware of the procedures to report these events. The pilot’s report in the logbook is the starting point triggering the evaluation of high load events for all of the Airbus aircraft families. Additionally, by providing training to maintenance personnel in the evaluation of pilot reported high load events, they will more efficiently identify and carry out the appropriate maintenance tasks called out by the aircraft maintenance manuals, maintenance procedures or from the dedicated load event analysis software tools. 
+Load reports and available recorded data give airlines more autonomy to manage their high load events on their Airbus aircraft, such as the LOAD<15> reports on A320, A330 and A340 aircraft families, or post event analysis using software tools such as LAT for A380, and SOMF tool for the A350XWB. However, even if the information available is evolving to further enhance and optimize the management of reported high load events, the trigger for assessing any event has always, and will always rely on the pilot’s report. 
+There are both safety and operational incentives for pilots to report high load events, most importantly ensuring that the aircraft can continuously operate in an airworthy condition. An airline that encourages a reporting mind-set and safety culture within its flight crews can benefit from their pilot’s willingness to send early alerts to ground operations following an abnormal event in flight. This enables faster decision making by maintenance personnel who will then then carry out the necessary maintenance actions, allowing the aircraft to safely return to line operations sooner. 
+Safety first #26 | July 2018 027 
+CONTRIBUTORS: 
+Sylvain DUBERTRAND 
+HO Structure Transverse & Abnormal Events Customer Engineering Support 
+Erwin RIEDL 
+HO Landing Gear Systems ATA 32 Customer Engineering Support 
+Jean-Victor NOEL BETEMPS 
+Handling Qualities Product Leader Customer Engineering Support 
+Frederic SOLIVERES 
+HO AFS/Nav/Com Systems Handling Qualities Analysis & Aircraft Environment Customer Engineering Support 
+Ian GOODWIN 
+Director Product Safety Enhancement Product Safety 
+   
+AIRCRAFT 
+Using Aircraft as a Sensor on Contaminated Runways 
+  
+Using Aircraft as a Sensor on Contaminated Runways 
+In any analysis of aviation accidents, Runway Excursions (RE) are usually identified as the top cause of aircraft hull losses. Many of these accidents occur on runways where braking performance is degraded by runway surface contaminants. 
+Airbus and its subsidiary NAVBLUE have developed a new technology to use the aircraft itself as a sensor to measure the available runway braking action, and subsequently share that data to the benefit of oncoming traffic. 
+    
+
+RUNWAY EXCURSIONS AND THEIR CAUSES 
+In the world of commercial jets, it is well known that Runway Excursions (RE) are one of the top three types of accident. 
+Accident statistics show that RE caused 35% of hull-losses and 14% of fatal accidents between 1998-2017. Given this status, Airbus and other manufacturers are investing in development of technology to reduce RE accidents. 
+Product features such as Airbus’ ROPS (Runway Overrun Prevention System) are already in service and providing real time energy and landing performance monitoring information to flight crews. 
+However, accurate knowledge of the runway condition is also key for the validity of landing performance computations, and a clear case can be made for the need to improve pilot awareness of runway surface conditions. 
+Indeed, national Safety bodies including the NTSB of the USA and the UK AAIB have identified the need to develop “an operationally feasible airplane-based braking ability / runway surface condition measurement and communication system”. 
+Today’s Means of Measuring Runway Surface Conditions 
+Today, there are typically three methods available by which runway surface conditions are evaluated: 
+• Runway contaminant type and depth observations • Ground surface friction measurements • Braking action reports from pilots 
+Contaminant type and depth observations are in general physically conducted by airport personnel on the runway surface. The conditions are assessed through a combination of visual observations and spot-checks. However, it can be a difficult task to consolidate what may be differing conditions across the entire width and length of the runway into a succinct runway condition report. 
+IATA data show 
+that 25% of Runway 
+Excursions occur 
+on contaminated 
+runways 
+Safety first #26 | July 2018 029 
+ 
+
+AIRCRAFT 
+Using Aircraft as a Sensor on Contaminated Runways 
+
+During raining or freezing/ 
+melting conditions, the validity of runway condition information may become outdated soon after it is issued 
+In addition, during active precipitation and/or freezing/melting conditions, the validity of the information may become outdated soon after it is issued. 
+Ground surface friction measurements provide a more quantitative approach to taking measurements along certain points on a runway. However, as noted by the NTSB, they are useful for identifying trends in runway surface condition but are not recommended for use in predicting aircraft stopping performance. 
+This is due to the lack of correlation with aircraft braking performance, as well as variability in equipment design and calibration. 
+While the airport operator is responsible for generating the Runway Condition Codes for a runway, pilots are responsible for providing accurate braking action reports. Indeed, providing braking action reports is a significant role that pilots play in preventing runway excursions for all airplanes. 
+Braking action reports contain the pilot’s assessment of the manner in which an aircraft responds to the application of wheel brakes. The latest terminology for these reports is identified by rulemaking activity from the ICAO, the FAA, and the EASA, and is explained in Table 1. 
+Under these new rules, which are expected to become the applicable worldwide standard in November 2020, pilots will be required to radio braking action reports to ATC whenever they are requested, or if the pilot has assessed braking action is less than previously reported. ATC will be required to relay information to airport operators, and depending on the situation, to other pilots in approach. 
+The forthcoming rules also define the expected response from airports if runway surface conditions deteriorate enough that two consecutive reports of ‘Poor’ conditions are received. In this case, the airport will be expected to re-assess the runway conditions. Additionally, If “Less Than Poor” braking action is reported, the runway will be closed to further operations until the airport operator can improve the runway’s condition. 
+These reports thus play an important part in the cycle of runway surface condition assessment and reporting. 
+ 
+DEFINITION OF TERMINOLOGY FOR PILOT BRAKING REPORTS AND RUNWAY CONDITION ASSESSMENT 
+The definition of standards for runway condition terminology was initiated in 2005 by the FAA with several airlines. 
+Subsequently, the TALPA Aviation Rulemaking Committee (ARC) was formed by the FAA to make recommendations on improving safety of operations on wet or contaminated runways, for both take-off and landing. This committee consisted of airlines/ aircraft manufacturers, airport operators, dispatchers and regulators. 
+The overall aims of TALPA were to identify an improved way of assessing runway conditions based on contaminant type, in order to provide operators with effective means of anticipating braking performance. 
+Two major outcomes of this activity have been the definition of the Runway Condition Assessment Matrix (RCAM), and the Runway Condition Code (RWYCC). The RCAM is a matrix with assessment criteria, allowing identification of an RWYCC using a set of observed runway surface conditions and pilot reports of braking action. 
+This means of performing runway condition assessment, and format for pilot reports, has been in place in the US since October 1 2016. 
+To advance global rulemaking based on the RCAM / RWYCC approach, ICAO has issued State Letters 2016/12 and 2016/29. Additionally, EASA has issued Notice of Proposed Amendment (NPA) 2016-11 in order to align with ICAO. A decision is expected to be published by EASA in Q3 2018. 
+Table 1: Runway Condition Codes (RWYCC) definitions for contaminated runways Note: Runway Condition Code 6 identifies normal braking behaviour on a dry and uncontaminated runway 
+Description of vehicle deceleration, or directional control observation 
+Braking deceleration is normal for the wheel braking effort applied AND directional control is normal 
+Braking deceleration OR directional control is between good and medium 
+Braking deceleration is noticeably reduced for the wheel braking effort applied OR directional control is noticeably reduced 
+Braking deceleration OR directional control is between medium and poor 
+Braking deceleration is significantly reduced for the wheel braking effort applied OR directional control is significantly reduced 
+Braking deceleration is minimal to non-existent for the wheel braking effort applied OR directional control is uncertain 
+Pilot reported braking action 
+Runway Condition Code (RWYCC) 
+6 5 
+4 3 
+2 1 
+0 
+Safety first #26 | July 2018 031 
+  
+
+
+AIRCRAFT 
+Using Aircraft as a Sensor on Contaminated Runways 
+
+Making an accurate braking 
+report can be difficult for a pilot because it relies on their subjective experience of the landing 
+DIFFICULTIES INVOLVED IN MAKING BRAKING ACTION REPORTS 
+Aeroplane deceleration results from several forces: aerodynamic drag forces, generated by the airframe and in particular the ground spoilers; reverse thrust, if available; wheel braking. 
+In general, a braking action report should characterize the availability (or lack thereof) of wheel braking. The difficulty for a pilot is in differentiating in real- time, which portion of the total deceleration is coming from the wheel-brakes. This difficulty is compounded by the typical use of autobrakes on contaminated runways. As the autobrake commands an overall airplane deceleration rate, the pilot is able to detect a lack of wheel-braking when the target deceleration is not achieved, however it is still difficult to differentiate how much each component is contributing to the deceleration. 
+Once the aircraft decelerates to lower speeds (generally below 60kt), pilots often use manual braking and at these speeds the aerodynamic drag and reverse thrust forces are negligible. It is often in this zone where pilots are able to more easily “feel” the runway by using the brake pedals to understand the braking action. 
+Given these complexities, making an accurate report can be a difficult task for a pilot, and braking report quality can become subject to differences of subjectivity between different pilots. To resolve this and provide objective and consistent braking action reports, Airbus has developed technology which uses aircraft data measured during the ground run to identify the available braking action. 
+USING THE AIRCRAFT AS A SENSOR TO MEASURE RUNWAY CONDITION 
+Braking Action Computation Function 
+Airbus has been developing a new aircraft function to address the need identified by the NTSB and other national aviation Safety bodies, for “an operationally feasible airplane-based braking ability / runway surface condition measurement and communication system”. 
+The implementation of this function on Airbus aircraft is called the “Braking Action Computation Function’ (BACF)”. 
+The fundamental principle of the function is, post landing, to use the data measured by the aircraft during its deceleration roll to identify the braking action level. By using the aircraft performance model, it is possible to differentiate the part of deceleration coming from either aerodynamic, thrust reverse, or wheel-braking. 
+BACF uses the data recorded by the aircraft during its deceleration roll to identify the braking level 
+Subsequently, by comparing the actual wheel braking performance to models of wheel-braking performance under different “reference” runway conditions, the runway state which most closely resembles the experienced deceleration is determined. 
+Additionally, using GPS data available from the aircraft navigation systems, it is possible to identify which section of the runway the aircraft is on when a runway state is identified. The function can identify several states at different points on the runway. 
+A few seconds after the aircraft speed has decreased below 30kts, details about the runway state become available to the pilot on a dedicated MCDU page (fig.1). If the pilot felt that the runway was slippery, or in a different condition to that communicated by Air Traffic Services (ATS), this information can be accessed by the pilot and radioed to ATS at an appropriate moment. 
+RunwaySense by NAVBLUE 
+As shown in (fig.2), in addition to the information available to the pilot through the MCDU, the data calculated by BACF is also sent automatically by ACARS message to NAVBLUE. 
+NAVBLUE will collect and display the results on a web-service platform called RunwaySense. The users of this service are expected to include airports, airline operational centres, and air traffic control. 
+This technological approach is similar to the various mobile traffic applications which share traffic data in real-time to allow drivers to see and avoid traffic jams. 
+Indeed, the goal of this new Airbus-NAVBLUE technology is to provide a platform where airspace users are sharing reports in real-time to better understand how the runway condition is trending, and to allow the airport to anticipate and mitigate slippery conditions. The more aircraft which participate in the sharing, the better the real-time map of conditions becomes. 
+(fig.1) 
+Example MCDU screen with runway state outputs from the BACF 
+Safety first #26 | July 2018 033 
+   
+The goal is for airspace users 
+to share reports in real-time, to better understand how the runway condition is trending 
+
+AIRCRAFT 
+Using Aircraft as a Sensor on Contaminated Runways 
+
+(fig.2) 
+Integration of BACF & NAVBLUE’s RunwaySense within airport and airline operations 
+INCOMING AIRCRAFT 
+Users of the service will be able to view runway condition information across a whole airport, or, as shown in (fig.3), on an individual runway. Airport level information will provide a high level status of the airport across the different runways, whilst runway level information will enable users to check runway condition trends versus different climatic conditions such as winds, temperatures and humidity. 
+ 
+Runway Condition information 
+Air Traffic Controller 
+Pilot reads 
+MCDU page 
+Airport Operators 
+NAVBLUE RunwaySense 
+ACARS message automatically sent to NAVBLUE 
+  
+Airline Operations 
+
+Center 
+      
+Braking action report by radio 
+          
+LANDED AIRCRAFT 
+   
+(fig.3 ) 
+NAVBLUE’s RunwaySense app illustrating a detailed view of a runway, including runway state information from recently landed aircraft 
+  
+
+DEVELOPMENT & TESTING 
+The development of prototype BACF technology was started by Airbus in 2015. Subsequently, in-service testing with selected airlines has been ongoing since November 2017. 
+With over 50,000 in-service flights monitored to date, the function has indeed demonstrated its ability to detect runway contamination and identify the runway condition. 
+The most relevant experience during the in-service trials occurred when data from BACF equipped aircraft landing at a European airport during snowy weather was reviewed and found to have consistently identified a change in braking action following increased snowfall. 
+As shown in (fig.4), with an initial covering of 2 mm of wet snow, the ATC was reporting “GOOD TO MEDIUM” (RWYCC 4) runway conditions to oncoming aircraft. 
+After that report, and over the course of approximately 35 minutes, 4 different aircraft equipped with BACF landed on the runway and recorded “MEDIUM TO POOR” (RWYCC 2) braking action. This demonstrated the advantage in accuracy gained by using aircraft as a sensor. 
+At around 40 minutes after the initial ATC report, the snowfall increased. Runway condition measurements subsequently recorded by five aircraft measured “POOR” (RWYCC 1) braking action. This highlighted the potential benefits for airports to receive real-time measurement data, for the management of operational safety. 
+With over 50,000 in-service 
+flights to date, the function has indeed demonstrated its ability to identify the runway condition 
+Safety first #26 | July 2018 035 
+
+T0 ATC reported 2mm wet snow ‘GOOD TO MEDIUM (4)’ 
+T + 40min Increased snowfall 
+From T+45min 
+(fig.4) 
+In-service testing in snow conditions illustrated the advantage of using aircraft as a sensor to identify 
+the runway state 
+  
+From T+5min 
+Braking Action Reports from BACF equipped aircraft 
+Braking Action Reports from BACF equipped aircraft 
+MEDIUM TO POOR (2) 
+POOR (1) 
+10min 20min 30min 40min 50min 60min 
+
+AIRCRAFT 
+Using Aircraft as a Sensor on Contaminated Runways 
+COMMERCIAL AVAILABILITY 
+Technical Availability 
+Initial availability of the BACF will be for A320 Family aircraft. A controlled Entry Into Service (EIS) is scheduled to start from September 2018 with six candidate airlines, leading to retrofit availability in mid-2019 and line-fit availability by the end of 2019. 
+A330 family aircraft will be the second program for which the function will be made available. Initial installation is expected to occur in 2020. 
+Selection of the function will be possible during the aircraft definition process. It will also be available for retrofit, by downloading an Airline Operations Centre (AOC) application onto the Air Traffic Service Unit (ATSU). 
+Decisions regarding availability of BACF on A350 XWB and A380 programs will be concluded over the course of 2019. 
+The function will not be available for A300/A310 aircraft. 
+Commercial Conditions 
+BACF and the RunwaySense collaborative web-platform are integrated as part of the overall RunwaySense Service from NAVBLUE. 
+The operational & safety benefit comes from sharing the data. To maximise the facilitation of the information, Airbus & NAVBLUE decided to make the BACF software Free of Charge (FOC) provided that airlines share the BACF ACARS messages through the RunwaySense platform. 
+The BACF software consists of an ATSU AOC application and will be available as an Airbus Service Bulletin. 
+All airlines which contribute will have basic access to the RunwaySense web platform where they can visualize and track all the BACF reports sent by their aircraft. Airlines can also choose to receive additional information about flight conditions at key airports in their route network. 
+For airport and ATC users, access to the NAVBLUE RunwaySense web platform will be possible through a paid subscription. 
+ 
+
+Runway Excursions (RE) are a top cause of accidents. IATA data show that 25% of them occur on contaminated runways. Measuring the runway condition is therefore a key element in preventing RE events. 
+Braking action reports from pilots are one of the three main ways of identifying runway contamination levels. These contain the pilot’s assessment of the manner in which an aircraft responds to the application of wheel brakes. 
+Making an accurate report can be a difficult task for a pilot, and braking report quality can become subject to differences of subjectivity between different pilots. 
+To resolve this and provide objective and consistent braking action reports, Airbus has developed technology which will use aircraft data recorded during the landing roll to identify the available braking action. 
+In 2018, Airbus & NAVBLUE will start commercialisation of the technology and associated web service to objectively measure & disseminate runway braking action information. 
+This service will allow airports, airlines, and ATC to understand how the runway condition is trending, and will allow airports to anticipate and mitigate slippery conditions. 
+The technology will first be available in 2018 for A320 family aircraft, followed by A330 aircraft types in 2020. Decisions about availability on A380 and A350 XWB aircraft will be concluded over the year 2019. 
+Safety first #26 | July 2018 037 
+CONTRIBUTORS: 
+Fabien MOLL 
+BACF Project Leader Design Office 
+Logan JONES 
+Runway Safety Specialist NAVBLUE 
+Lars KORNSTAEDT 
+Aircraft Performance Expert Flight Operations Support 
+Adrien CHEN 
+Director Product Safety Enhancement Product Safety 
+    
+P 
+O 
+T 
+P 
+h 
+R 
+P 
+ro 
+ru 
+O 
+te 
+ER 
+s 
+c 
+t 
+t 
+C 
+R 
+in 
+e 
+A 
+E 
+g 
+ve 
+T 
+A 
+D 
+r 
+i 
+s 
+I 
+rc 
+U 
+O 
+e 
+r 
+r 
+a 
+R 
+N 
+D 
+ft 
+e 
+E 
+a 
+S 
+p 
+n 
+l 
+S 
+d 
+oy 
+P 
+m 
+a 
+e 
+s 
+n 
+s 
+t 
+en 
+in 
+g 
+F 
+e 
+l 
+r 
+ig 
+s 
+h 
+fr 
+t 
+om Cargo Fires 
+     
+Thrust Reverser Deployment in Flight 
+Thrust reverser deployment in flight events have been reported to Airbus which have had both a maintenance and an operational contribution. 
+This article describes a typical event, and provides a reminder of the recommended actions for the flight crew when an alert related to the thrust reversers is triggered at the gate or during taxi-out. It also provides maintenance recommendations 
+to ensure correct thrust reverser de-activation task accomplishment. 
+  
+
+A THRUST REVERSER 
+UNLOCKED EVENT 
+An A320 aircraft equipped with IAE V2500 engines was prepared for dispatch under MEL with its ENG#2 thrust reverser deactivated following a thrust reverser fault logged during the previous flight. 
+At the gate, prior to departure, the ENG 2 REVERSE UNLOCKED ECAM caution appeared. The flight crew started the engines despite this alert and proceeded with the take-off. 
+The ENG 2 REVERSE UNLOCKED ECAM caution reappeared early in the climb. Moments later, due to the aerodynamic load, the translating sleeve started to move from its stowed position. When the position of the sleeve exceeded the threshold of the FADEC automatic IDLE function, the ENG#2 thrust automatically reduced to IDLE. The flight crew felt the aircraft vibrating, shut down the ENG#2 and then performed an in-flight turn back, landing the aircraft safely. 
+Subsequent investigations revealed that the ENG#2 thrust reverser sleeve had moved, during flight, from its stowed position. The automatic IDLE function combined with the fly-by-wire technology, prevented the aircraft from any sudden lateral upset. It was also identified that the lockout pin was not installed correctly during the deactivation procedure. 
+Similar incidents have been reported to Airbus. During a review of these events, there are common factors identified that provide useful lessons learnt. These include a reminder of ECAM caution management (or local warning on A300) by the flight crew and correct application of the MEL maintenance deactivation task. 
+FLIGHT OPS RECOMMENDATIONS 
+If the flight crew observes the ENG X REVERSE UNLOCKED ECAM caution before the start of the taxi-out phase (A300-600, A310, A320, A330, A340, A350, and A380) or REV UNLK local warning light (A300, A300-600, A310), they must refer to the MEL and ensure that the required maintenance actions are carried out. 
+The automatic IDLE function 
+combined with the fly-by-wire technology, prevented the aircraft from any sudden lateral upset 
+This article supersedes the “A320 in-flight Thrust Reverser Deployment” article published in the Safety first issue #1. 
+The issue of the A340 ENG X REV UNLOCKED spurious alert, which was described in the Safety first issue #3 “A340 Thrust Reverser Unlocked”, is now resolved by the modification of the primary and secondary locks on all CFM 56-5C engines installed on A340-200 and -300. 
+Safety first #26 | July 2018 039 
+       
+
+PROCEDURES 
+Thrust Reverser Deployment in Flight 
+(fig.1) 
+Example of A320 ECAM action on ground 
+If the alert triggers after the start of the taxi-out phase, the ECAM must be followed: it requires the flight crew to set the affected engine at idle and to shut the engine down. Consequently, the aircraft must return to the gate to perform maintenance actions. 
+KEYPOINT 
+When a thrust reverser has been correctly deactivated by the maintenance, the ENG X REVERSE UNLOCKED alert (REV UNLK local warning light on A300) will not appear. 
+MAINTENANCE RECOMMENDATIONS 
+Maintenance Procedure for Thrust Reversers Deactivation 
+Several safety measures are described in the AMM/MP Thrust Reverser Deactivation task. These include: 
+Removing the hydraulic pressure or disconnecting electrical power from the actuator (depending on engine model)  
+Mechanically locking the thrust reverser by lockout pin installation  
+Clearly indicating that a thrust reverser is deactivated by the ENG REV  INHIBITION ECAM caution or a Warning placard  
+It is crucial that the maintenance personnel follow all the steps of AMM thrust reverser deactivation procedure and check that the ENG X REVERSE UNLOCKED caution does not appear on the ECAM. 
+This will prevent from any uncommanded deployment in flight. 
+Focus on the V2500 Thrust Reverser Deactivation 
+The events reported to Airbus occurred on A320 aircraft equipped with V2500 engines. An incorrect installation of the thrust reverser lockout pin is a common contributor for all the events where the thrust reverser deployed in flight, as it was the case for the event described in this article. 
+In normal operation, when the thrust reverser is serviceable, the lockout pin is stowed in the pin stowage bracket assembly located in the middle of each translating sleeve (fig.2). 
+     
+It is crucial that the maintenance 
+personnel follow all the steps of AMM thrust reverser deactivation procedure and check that the 
+caution does not appear 
+on the ECAM 
+ENG X REVERSE 
+ 
+UNLOCKED 
+ 
+
+In order to lock out the translating sleeve and to prevent the thrust reverser from moving, it is important to: 
+1. Fully retract the translating sleeve 
+2. Install the lockout pin in the lockout assembly located above the lockout pin stowage (fig.2). With the lockout pin correctly installed, the translating sleeve is locked to the fixed structure of the nacelle. 
+The outer end of the lockout pin will be visible from the surface of the sleeve whereas the collar of the pin will be below the surface of the sleeve (fig.3). 
+Safety first #26 | July 2018 041 
+ 
+(fig.2) 
+Location of the reverser locking devices 
+  
+Cases of Incorrect Installation of the Lockout Pin 
+There are 3 typical cases of incorrect installation: 
+1. Lockout pin partially engaged due to insufficient or incorrect threading 2. Misalignment of the translating sleeve with the C-duct 3. Lockout pin not engaged in the lockout assembly 
+(fig.3) 
+Correct Lockout Pin Installation 
+An incorrect installation of 
+the thrust reverser lockout pin is a common contributor for all the events where the thrust reverser deployed 
+in flight 
+
+PROCEDURES 
+Thrust Reverser Deployment in Flight 
+If the grey collar of the lockout pin is visible above the thrust reverser skin, the lockout pin is not correctly installed 
+BEST PRACTICE 
+Turn the lockout pin to tighten by hand for at least 2 rotations to check that it has not cross threaded. 
+If the grey collar of the lockout pin is visible above the thrust reverser skin, the lockout pin is not correctly installed. 
+Case 2: Misalignment of the translating sleeve with the C-duct 
+In this case, which is illustrated in (fig.5, 6a and 6b), the translating sleeve is misaligned with the C-Duct due to an incorrect rigging of the translating sleeve. To correct this condition, check all the internal bumper shims and compression struts for clearance (Ref. IAE AMM TASK 78-30-00-820-010 Para. 4.B). 
+If the translating sleeve and the C-duct are still misaligned, then it is necessary to check the rigging of the translating sleeve actuator (Ref. IAE AMM TASK 78-30-00-820-010 Para. 4.C). 
+Case 1: Lockout pin partially engaged due to insufficient or incorrect threading 
+In this case, which is illustrated in (fig.4), the lockout pin has engaged with the outer cascade ring hole, but only partially engaged with 1 of the 2 anchor bracket holes. 
+ 
+(fig.4) 
+Lockout pin partially engaged due to insufficient or incorrect threading 
+   
+(fig.5) 
+Misalignment of the translating sleeve with the C-duct 
+ 
+  
+(fig.6a) 
+Misalignment of the translating sleeve with the C-duct before lockout pin installation 
+NOTE 
+(fig.6b) 
+Lockout pin installed in a misaligned assembly 
+(fig.6c) 
+Lockout pin correctly inserted 
+(fig.6) 
+Comparison between correct and incorrect installation 
+If the translating sleeve 
+and the C-duct are still misaligned, then it is necessary to check the rigging 
+of the translating sleeve actuator 
+In both Case 1 and Case 2, the correct installation of the lockout pin will ensure to restore a retention mean but these configurations will not trigger an ENG X REVERSE UNLOCKED warning message as the T/R is fully stowed. 
+Case 3: Lockout pin not engaged in the lockout assembly 
+In this case, which is illustrated in (fig.7), the translating sleeve was not fully retracted and the lockout pin has engaged with the anchor bracket but NOT with in the aft cascade ring of the C-Duct. 
+Safety first #26 | July 2018 043 
+    
+This incorrect locking can happen if the sleeve has translated more than 20 mm from its fully stowed position. Any partial translation of the thrust reverser sleeve creates a visible gap between the translating sleeve and the fan cowl on both the right and left hand sides. 
+(fig.7) 
+Lockout pin not engaged in the lockout assembly 
+
+This gap will be clearly visible during preflight walkaround inspection (fig.8). 
+
+PROCEDURES 
+Thrust Reverser Deployment in Flight 
+
+KEYPOINT 
+Always confirm that the thrust reverser translating sleeves are retracted to their fully stowed position before installing the lockout pins as per IAE AMM TASK 78-32-00-860-011-A. 
+  
+BEST PRACTICE 
+
+(fig.8) 
+Correct and Incorrect position of the thrust reverser 
+
+Always confirm that the thrust 
+reverser translating sleeves are retracted to their fully stowed position before installing 
+the lockout pins 
+(fig.8a) 
+Reverser fully retracted 
+(fig.8b) 
+Reverser NOT fully retracted 
+If this gap is visible (fig.8b) on a deactivated thrust reverser, the translating sleeve is not fully retracted: this means that the lockout pin was not correctly installed. 
+NOTE 
+In Case 3, the correct installation of the lockout pin including the full closing of the T/R will ensure to restore a retention mean and to clear the ENG X REVERSE UNLOCKED warning message that was triggered. 
+       
+
+Safety first #26 | July 2018 045 
+Thrust Reverser Deployment in Flight events reported to Airbus have all been attributed to an incorrect application of the thrust reverser deactivation procedure. Confirming that all of the steps of the maintenance procedure are completed, T/R is fully stowed, and that the lockout pins are correctly inserted and secured, will ensure that the thrust reverser will not deploy in flight. 
+If the ENG X REVERSE UNLOCKED ECAM caution appears on ground after a dispatch with a thrust reverser deactivated, the aircraft must return to the gate (or must not leave) to perform the relevant maintenance actions. 
+If a thrust reverser has been correctly deactivated, the ECAM will not display the ENG X REVERSE UNLOCKED alert. 
+    
+CONTRIBUTORS: 
+Xavier JOLIVET 
+Director Product Safety Enhancement Product Safety 
+Raphaël CERVAN 
+Propulsion system Integration Design Office 
+Aurélie WOZNIAK 
+Flight Operations Safety Enhancement Flight Operations Support 
+Eve NADAU CABAR LACURE 
+Nacelle Engineering Support Customer Engineering Support 
+Cyril MONTOYA 
+Maintenance Safety Enhancement Customer Engineering Support 
+ARTICLES PUBLISHED IN PREVIOUS ‘SAFETY FIRST’ ISSUES 
+
+Issue 25 January 2018 
+• Are You Properly Seated? • A Recall of the Correct Use of the MEL • Protecting Aircraft and Passengers 
+from Cargo Fire 
+Issue 22 July 2016 
+• Pitot Probe Performance Covered On the Ground 
+• 180° turns on runway • Optimum use of weather radar 
+Issue 19 January 2015 
+• Tidy cockpit for safe flight • Landing on contaminated runways • Understanding weight & balance • Wind shear: an invisible enemy to pilots? 
+Issue 24 July 2017 
+• Control your Speed... During Descent, Approach and Landind 
+• Troubleshooting Airframe Vibrations • Preventing Falls from Height • Progress to Pinpoint an 
+Aircraft’s Position 
+Issue 21 January 2016 
+• Control your speed... in cruise • Lithium batteries: safe to fly? • Wake vortices • A320 Family Aircraft configuration 
+Issue 18 July 2014 
+• Control your speed... at take-off • Safe operations with composite aircraft • Learning from the evidence • A320 Family cargo Containers/ pallets 
+movement • Parts Departing from Aircraft (PDA) 
+Issue 23 January 2017 
+• Safely Flying Non-Precision Instrument Approaches 
+• Introduction to the Soft Go-Around Function 
+• Preparing Flight Crews to Face Unexpected Events 
+• Safety, Our Shared Destination 
+Issue 20 July 2015 
+• Control your speed... during climb • Lateral runway excursions upon landing • Fuel monitoring on A320 Family aircraft • Hight-altitude manual flying 
+Issue 17 January 2014 
+• Airbus Brake Testing • Hard Landing, a Case Study for Crews 
+and Maintenance Personnel • Aircraft Protection during Washing and 
+Painting • Flight Data Analysis (FDA), a Predictive 
+Tool for Safety Management System 
+(SMS) • Flying a Go-Around, Managing Energy 
+         
+Safety first #26 | July 2018 047 
+
+Issue 16 July 2013 
+Performance Based Navigation:  RNP and RNP AR Approaches  
+Atlantic Airways: Introduction  of RNP AR 0.1 Operations  
+Flight Crews and De-Icing Personnel  – Working together in Temporary  Teamwork for safe Skies  
+Low Speed Rejected Take-Off upon  Engine Failure  
+Late Changes before Departure  Issue 13 January 2012 
+A320 Family / A330 Prevention and Handling of Dual Bleed Loss  
+The Fuel Penalty Factor  
+The Airbus TCAS Alert Prevention  (TCAP)  
+A380: Development of the Flight  Controls - Part 1  
+Facing the Reality of everyday  Maintenance Operations  Issue 10 August 2010  
+A380: Flutter Tests  
+Operational Landing Distances:  A New Standard for In-flight Landing  Distance Assessment  
+Go Around Handling  
+A320: Landing Gear Downlock • Situation Awareness and Decision Making  
+Issue 15 January 2013 
+• The Golden Rules for Pilots moving from PNF to PM 
+• Airbus Crosswind Development and Certification 
+• The SMOKE/FUMES/AVNCS SMOKE Procedure 
+• Post-Maintenance Foreign Objects Damage (FOD) Prevention 
+• Corrosion: 
+A Potential Safety Issue 
+Issue 12 July 2011 
+• Airbus New Operational Landing Distances 
+• The Go Around Procedure • The Circling Approach • VMU Tests on A380 • Automatic Landings 
+in Daily Operation 
+Issue 9 February 2010 
+• A320 Family: Evolution of Ground Spoiler Logic 
+• Incorrect Pitch Trim Setting at Take-Off • Technical Flight Familiarization • Oxygen Safety 
+Issue 14 July 2012 
+• Thrust Reverser Selection means Full-Stop 
+• Transient Loss of Communication due to Jammed Push-To-Talk A320 and A330/A340 Families 
+• A380: Development of the Flight Controls - Part 2 
+• Preventing Fan Cowl Door Loss • Do not forget that you are not alone in 
+Maintenance 
+Issue 11 January 2011 
+• What is Stall? How a Pilot Should React in Front of a Stall Situation 
+• Minimum Control Speed Tests on A380 
+• Radio Altimeter Erroneous Values • Automatic NAV Engagement at Go 
+Around 
+Issue 8 July 2009 
+• The Runway Overrun Prevention System 
+• The Take-Off Securing Function 
+• Computer Mixability: 
+An Important Function • Fuel Spills During Refueling Operations 
+         
+ARTICLES PUBLISHED IN PREVIOUS ‘SAFETY FIRST’ ISSUES 
+
+Issue 7 February 2009 
+Airbus AP/FD TCAS Mode: A New Step Towards Safety Improvement  
+Braking System Cross Connections  
+Upset Recovery Training Aid, Revision 2  
+Fuel Pumps Left in OFF Position  
+A320: Avoiding Dual Bleed Loss  Issue 4 June 2007 
+Operations Engineering Bulletin Reminder Function  
+Avoiding High Speed Rejected Take-Offs Due to EGT Limit Exceedance  
+Do you Know your ATC/TCAS Panel?  
+Managing Hailstorms  
+Introducing the Maintenance Briefing  Notes  
+A320: Dual hydraulic Loss • Terrain Awareness and Warning Systems  Operations Based on GPS Data  Issue 1 January 2005  • Go Arounds in Addis-Ababa due to VOR Reception Problems  • The Importance of the Pre-flight Flight Control Check  • A320: In-flight Thrust Reverser Deployment • Airbus Flight Safety Manager Handbook • Flight Operations Briefing Notes  
+Issue 6 July 2008 
+• A320: Runway Overrun • FCTL Check after EFCS Reset on Ground • A320: Possible Consequence of VMO/ 
+MMO Exceedance • A320: Prevention of Tailstrikes • Low Fuel Situation Awareness • Rudder Pedal Jam • Why do Certain AMM Tasks Require 
+Equipment Resets? • Slide/raft Improvement • Cabin Attendant Falling through the 
+Avionics Bay Access Panel in Cockpit 
+Issue 3 December 2006 
+• Dual Side Stick Inputs • Trimmable Horizontal Stabilizer Damage • Pitot Probes Obstruction on Ground • A340: Thrust Reverser Unlocked • Residual Cabin Pressure • Cabin Operations Briefing Notes • Hypoxia: An Invisible Enemy 
+Issue 5 December 2007 
+• New CFIT Event During Non Precision Approach 
+• A320: Tail Strike at Take-Off? • Unreliable Speed • Compliance to Operational Procedures • The Future Air Navigation 
+System FANS B 
+Issue 2 September 2005 
+• Tailpipe or Engine Fire • Managing Severe Turbulence • Airbus Pilot Transition (ATP) • Runway Excursions at Take-Off 
+       
+
+D10X 
+Air Transport Safety Destination 10X together 
+
+App now available for all of our customers 
+  
+ats.destination10x@airbus.com 
+ 
