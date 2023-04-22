@@ -1,0 +1,1163 @@
+
+
+The Airbus safety magazine 
+July 2017 
+#24 
+Safety first 
+ 
+ 
+Safety first, #24 July, 2017. Safety first is published by Airbus S.A.S. - 1, rond point Maurice Bellonte - 31707 Blagnac Cedex/France. Publisher and Editor: Yannick Malinge, 
+Chief Product Safety Officer.Concept Design by Airbus Multi Media Support 20171210. Reference: X00D16031905 Issue 24. Photos by Airbus, Lindner Fotografie, S. Ramadier, H. Goussé, P. Masclet, F. Lancelot, A, Doumenjou, J. V. Reymondon, A. Tchaikovsky, C. Sadonnet,P. Pigeyre, A. Balazh. Computer renderings by Fixion. 
+This brochure is printed on Stucco.This paper is produced in factories that are accredited EMAS and certified ISO 9001-14001, PEFC and FSC CoC. It is produced using pulp that has been whitened without either chlorine or acid. The paper is entirely recyclable and is produced from trees grown in sustainable forest resources.The printing inks use organic pigments or minerals. There is no use of basic dyes or dangerous metals from the cadmium, lead, mercury or hexavalent chromium group. 
+Safety first 
+The Airbus magazine contributing to the enhancementof the safety of aircraft operations by increasing knowledge and communication on safety related topics. 
+Safety first is published by the Product Safety department. It is a source of specialist safety information for the use of airlines who fly and maintain Airbus aircraft. It is also distributed to other selected organizations and is available on tablets. 
+Material for publication is obtained from multiple sources and includes selected information from the Airbus Flight Safety Confidential Reporting System, incident and accident investigation reports, system tests and flight tests. Material is also obtained from sources within the airline industry, studies and reports from government agencies and other aviation sources. 
+All articles in Safety first are presented for information only and are not intended to replace ICAO guidelines, standards or recommended practices, operator-mandated requirements or technical orders. The contents do not supersede any requirements mandated by the State of Registry of the Operator’s aircraft or supersede or amend any Airbus type-specific AFM, AMM, FCOM, MMEL documentation or any other approved documentation. 
+Articles may be reprinted without permission, except where copyright source is indicated, but with acknowledgement to Airbus. Where Airbus is not the author, the contents of the article do not necessarily reflect the views of Airbus, neither do they indicate Company policy. 
+Contributions, comment and feedback are welcome. Enquiries related to this publication should be addressed to: 
+AirbusProduct Safety department (GS) 1, rond point Maurice Bellonte 31707 Blagnac Cedex - France Fax: +33(0)5 61 93 44 29 
+safetycommunication@airbus.com 
+Safety first app available here 
+Editorial Team 
+Guillaume ESTRAGNAT 
+Timothy ROACH 
+Daniel PERCY 
+   
+© Airbus S.A.S. 2017 – All rights reserved. Proprietary documents. 
+By taking delivery of this Brochure(hereafter “Brochure”), you accept on behalf of your company to comply with the following guidelines: 
+No other intellectual property rights are granted by the delivery of this Brochure than the right to read it, for the sole purpose of information. 
+This Brochure and its content shallnot be modified and its illustrationsand photos shall not be reproduced without prior written consent of Airbus. 
+This Brochure and the materials it contains shall not, in whole or in part, be sold, rented, or licensed to any third party subject to payment. 
+This Brochure contains sensitive information that is correct at the time of going to press. 
+This information involves a number of factors that could change over time, effecting the true public representation. Airbus assumes no obligationto update any information contained in this document or with respect to the information described herein. 
+Airbus S.A.S. shall assume no liability for any damage in connection with the use of this Brochure and of the materials it contains, even if Airbus S.A.S. has been advised of the likelihood of such damages. 
+   
+editorial 
+
+YANNICK MALINGE 
+SVP & ChiefProduct Safety Officer 
+Those of you who have received a copy of our annual aircraft accident statistics brochure earlier this year will recall that the majority of commercial aviation accidents occur in the approach or landing flight phases, and account for around two-thirds of fatal or hull loss accidents. 
+Investigations have identified incorrect energy management in these flight phases as a recurrent contributing factor to these accidents. 
+Thus, it is clear that any effort we can make to reinforce proper understanding of energy management and the importance of complying with the associated published procedures is useful to reduce the number of accidents during approach and landing. 
+With this in mind, in this 24th edition of Safety first we are pleased to provide you with the final article from the series ‘Control Your Speed’, covering Descent, Approach & Landing. 
+Beyond this, and to further underline the importance of speed and energy management, this topic will be one of the main themes of the next Airbus Flight Safety Conference in March 2018. 
+I hope you will enjoy reading this issue of Safety first. Sincerely, 
+ 
+
+NEWS 
+A statistical Analysis on Commercial Aviation Accidents: check the 2017 edition! 
+The new edition of our yearly brochure on commercial aviation accidents statistics is now available. 
+This statistical analysis examines the evolution of hull-loss and fatal accidents during revenue flights from 1958 to 2016. A particular focus is made on a breakdown of statistics by generations of aircraft and main accident categories, namely Controlled Flight Into Terrain (CFIT), Loss Of Control In-flight (LOC-I) and Runway Excursion (RE). 
+To get the brochure, visit our website on 
+http://www.aircraft.airbus.com/company/safety-first/ 
+or find it on our tablet application. 
+SAVE THE DATE24th FLIGHT SAFETY CONFERENCE – 2018 
+We are pleased to announce that the 24th Flight Safety Conference will take placeinthecityofVienna,RepublicofAustriafromthe19 tothe22ndofMarch 2018. A preliminary conference agenda will be announced in September and the formal invitations will be sent to our customers in January 2018 to register. For any information regarding invitations, please contact Mrs. Nuria Soler, email nuria.soler@airbus.com. 
+The annual Airbus Flight Safety Conference has proven to be an excellent forum for the exchange of information between Airbus and its customers. The conference is restricted to operators only, so as to keep the confidentiality of exchanges in order to encourage an open and transparent dialogue that promotes flight safety across the fleets of all our operators. 
+We welcome presentations from our customers and encourage your participation as a speaker to share experiences and ideas for improving aviation safety. If you believe you can share information on a topic that will benefit other operators, and you are interested in being a speaker at this conference, please send a brief abstract and a bio or resume to nuria.soler@airbus.com 
+   
+NEWS 
+  
+
+“A statistical Analysis on Commercial Aviation Accidents” Check the 2017 edition! 
+
+Also available on tablets. 
+ 
+   
+Flight operations Maintenance Engineering Ground operations 
+Safety first#24 
+PROCEDURES 
+P06 
+Control your Speed... During Descent, Approach and Landing 
+OPERATIONS 
+P26 
+Troubleshooting Airframe Vibrations 
+P34 
+Preventing Falls from Height 
+AIRCRAFT 
+P44 
+Progress to Pinpoint an Aircraft’s Position 
+Safety First #24 | July 2017 005 
+ 
+ 
+PROCEDURES 
+Control your Speed... During Descent, Approach and Landing 
+
+Control your Speed... 
+During Descent, 
+Approach and Landing 
+This article is the conclusion of our theme of speed management during a flight, which began in Safety first Issue #18. We are entering into the descent phase. Our objective is to cover descent from cruise altitude down toward the destination airport and prepare the aircraft for its approach and landing. 
+This article aims to highlight how the reference, limit and operating speeds are useful during descent, approach and landing.It also provides a description of the tools that are available and operational recommendations on how to manage the aircraft energy during the last phases of flight. 
+
+MANAGING YOUR DESCENT, APPROACH AND LANDING: UNDERSTAND SPEEDS 
+Maneuvering speeds 
+As for the previous flight phases, Green Dot, S and F speeds guide the flight crew during descent and approach phases. 
+Green Dot (GD) speed 
+Definition 
+GD speed (fig.1) is the engine-out operating speed in clean configuration. It provides an estimate of the speed for best lift-to-drag ratio. 
+GD speed is the managed speed target in CONF CLEAN when the FMS approach phase is activated. It is also the recommended speed to extend flaps to CONF 1 and for a holding in clean configuration. 
+How is GD speed determined? 
+The Auto Flight System (AFS) computes GD speed using the aircraft weight, based on the Zero Fuel Weight (ZFW) entered in the FMS during flight preparation, and the pressure altitude. The GD formula has been set up so that the resulting airspeed provides the best lift-to-drag ratio for a given altitude and aircraft weight, in clean configuration with one engine out. 
+In some phases of flight, GD is computed to minimize drag and thus, the fuel consumption (for example during the HOLD phase). 
+Green dot isthe managed speed target in CONF CLEAN when the FMS approach phase is activated. 
+Green Dot Speed 
+(fig.1) 
+Green Dot speed on the PFD speed scale 
+Energy management, and as a consequence speed management, is critical during descent, approach and landing phases. An aircraft flying at cruise altitude, and at its cruise speed, has a lot of energy to dissipate before reaching its destination airport and to land with an appropriate speed. Incorrect management of the speed in descent can result in excess-energy in final approach phase. This is shown to be a major cause of runway overrun events. 
+Safety First #24 | July 2017 007 
+    
+
+PROCEDURES 
+Control your Speed... During Descent, Approach and Landing 
+  
+S Speed 
+S and F speeds 
+Definition 
+S speed:In approach phase, S speed is the managed speed target, when in CONF 1 or 1+F. It is the recommended speed to select CONF 2. 
+It is displayed as a green ‘S’ on the PFD airspeed scale (fig. 2) and shown only when the Slats/Flaps control lever is on position 1 (CONF 1 or 1+F). 
+F speed:In approach phase, F speed is the managed speed target, when in CONF 2 or 3. It is the recommended speed to select CONF 3 when in CONF 2, and to select CONF FULL when in CONF 3. 
+It is displayed as a green ‘F’ on the PFD airspeed scale (fig. 3) and shown only when the Slats/Flaps control lever is in CONF 2 or 3 during the approach phase and go-around. 
+How are S and F speeds determined? 
+S and F speeds are obtained using the Stall speed of the corresponding configuration (Vs1g) demonstrated during flight tests multiplied by a specific factor depending on the aircraft type. Margins are kept with the Minimum Control speed at Landing (VMCL) determined during flight tests, and with the maximum speed with Flaps Extended of the next configuration (VFE NEXT): 
+SorF=VS1G xfactor S=kxVS1GCLEAN with1.21≤k≤1.23 FCONF2 =kxVS1GCONF2 with1.38≤k≤1.47 FCONF3 =kxVS1GCONF3 with1.32≤k≤1.36 
+Limit Speeds 
+During descent, approach and landing, the operation of the aircraft is also framed within limit speeds. Their indication on the PFD or on a placard enables the flight crew to easily identify the aircraft speed envelope. 
+VMAX: Maximum speed 
+Definition 
+VMAX is the maximum speed defining the aircraft’s flight envelope. VMAX is equal to: 
+	-  VMO/MMO in clean configuration with landing gears up. 
+	-  VFE in high lift configurations with landing gears up. 
+	-  VLE/MLE in clean configuration with landing gears down. 
+	-  The minimum of VFE and VLE/MLE in high lift configurations with landing gears down. On the PFD airspeed scale, it corresponds to the lower end of the red and black strip (fig.4). 
+ 
+(fig.2) 
+S speed on the PFD speed scale 
+F Speed 
+(fig.3) 
+F speed on the PFD speed scale 
+V 
+(fig.4) 
+V speed on the PFD speed scale 
+     
+
+VMO/MMO: Maximum Operating speed/Mach number 
+Definition 
+In CONF CLEAN, VMO/MMO is the higher limit of the aircraft speed envelope. 
+How is VMO/MMO determined? 
+VMO/MMO is derived from the design limit Mach/speed VD/MD by applying a margin related to aircraft dive characteristics. For more details on VMO /MMO determination, refer to the Safety first issue 21 dated January 2016. 
+VFE: maximum speed with the Slats/Flaps extended Definition 
+VFE is the maximum speed with the slats or flaps extended. 
+There is one VFE per configuration. 
+The VFE is displayed on the airspeed scale of the PFD as the VMAX (fig. 5) when the Slats/Flaps are extended, based either on the Slats/Flaps lever position or the actual Slats/Flaps position. 
+V =V 
+The VFE of each Slats/Flaps configuration is also available on the speeds placard in the cockpit. 
+How is VFE determined? 
+The VFE is based on the structural limit speed of the Slats/Flaps configuration plus a margin. It is a fixed value associated to the aircraft model. 
+VFE NEXT Definition 
+The aim of the VFE NEXT is to remind the flight crew the maximum speed at which they can extend the next Slats/Flaps configuration during approach. 
+VFE NEXT is displayed on the airspeed scale of the PFD (fig. 7). VFE NEXT is displayed in flight, below FL200 (FL220 on A350). 
+How is VFE determined? 
+* A340-200/300. 
+(fig.7) 
+V 
+Safety First #24 | July 2017 009 
+  
+(fig.5) 
+V speed on the PFD speed scale 
+(fig.6) 
+Table showing source of information for V display on PFD 
+
+ 
+VFE NEXT is the VFE of the next Slats/Flaps configuration. 
+V speed on the PFD speed scale 
+
+PROCEDURES 
+Control your Speed... During Descent, Approach and Landing 
+ 
+(fig.8) 
+Example of speed placard on the A380 
+VLE/MLE: Landing gear Extended speed/Mach 
+Definition 
+VLE/MLE is the maximum speed/Mach at which the aircraft can fly with the landing gear extended.VLE/MLE is displayed on the airspeed scale of the PFD as the VMAX when the landing gear is extended as long as VLE /MLE is lower than VFE. It is also available on the speeds placard in the cockpit (fig. 8). 
+How is VLE determined? 
+VLE is determined to provide sufficient flight domain with landing gear extended, taking into account the structural limitation of the landing gear and landing gear doors. 
+VLO/MLO: Landing gear Operating speed/Mach Definition 
+VLO/MLO is the maximum speed/Mach to operate (both extend and retract) the landing gear.VLO/MLO is not displayed on the PFD; it is available on the speeds placard in the cockpit (fig. 8). 
+How is VLO/MLO determined? 
+VLO/MLO is determined to provide sufficient flight domain for landing gear extension/retraction, taking into account the structural limitation of the landing gear and landing gear doors. 
+VLS: Lowest Selectable Speed Definition 
+V is the lowest selectable speed for the autopilot and the autothrust. Even if the LS 
+selected target speed is below VLS, the A/THR will maintain VLS as a minimum. VLS is indicated by the top of the amber strip on the PFD airspeed scale (fig. 9). 
+VLS (of selected landing configuration: CONF 3 or FULL), is also displayed on the FMS APPR page. 
+How is VLS determined in descent and approach? 
+For descent and approach flight phases, VLS of Fly-By-Wire aircraft is obtained using the Stall speed demonstrated during flight tests (VS1G) of the corresponding configuration, multiplied by a factor of 1.23. On A320 family aircraft, the factor may be increased for some Slats/Flaps configurations for manoeuvrability improvement and/or to increase margins with protection speeds. VLS is always greater or equal to the Minimum Control Speed at Landing (VMCL). 
+FBW aircraft (except A320 family): VLS = 1.23 x VS1G A320 family: VLS = k x VS1G with 1.23 ≤ k ≤1.28 
+VLS ≥ VMCL 
+Since Speedbrakes extension increases Vs1g, VLS increases when the speedbrakes are extended. 
+Since Speedbrakes 
+extension increases Vs1g,VLS increases when the speedbrakes are extended. 
+V 
+(fig.9) 
+V speed on the PFD speed scale 
+   
+
+Operating Speeds ECON DES speed/Mach 
+Definition 
+ECON DES speed/Mach is the optimum descent speed/Mach to lower the direct operating costs of the descent. 
+How is ECON DES speed/Mach determined? 
+ECON DES speed/Mach is computed by the FMS based on the Cost Index (CI), cruise FL and on the aircraft weight. 
+VAPP: Approach speed Definition 
+VAPP is the final approach speed when the Slats/Flaps are in landing configuration and the landing gears are extended. 
+VAPP is displayed in the FMS PERF APPROACH page. 
+How is VAPP determined? 
+The VAPP can be computed by the AFS or inserted manually by the pilot through the FMS PERF Page. 
+VAPP is based on the VLS of the landing configuration. For Airbus aircraft, in normal operations, the VAPP is defined by: 
+VAPP = VLS Landing CONF + APPR COR AFS Computation of VAPP 
+When computed by the AFS, the APPRoach CORrection (APPR COR) used by the AFS is 
+APPR COR = 1/3 Headwind with 5kt ≤ APPR COR ≤15 kt 
+Excepted on some older A320 aircraft where the APPR COR used by the AFS is 1/3 Headwind + 5kt, limited at 15kt. 
+VAPP Computation by the Flight Crew 
+The flight crew can chose to insert any VAPP by computing its own APPR CORR as follows: 
+APPR COR = highest of: • 5kt if A/THR is ON• 5kt if ice accretion (10kt instead of 5kt 
+on A320 family when in CONF 3) • 1/3 Headwind excluding gust• Flight crew speed increment (*) 
+with APPR COR ≤15 kt 
+During autoland or when A/THR is ON or in case of ice accretion or gusty crosswind greater than 20kt, VAPP must not be lower than VLS + 5kt. 
+ECON DES speed/Mach is the 
+optimum descent speed/Mach to lower the direct operating costs of the descent. 
+Safety First #24 | July 2017 011 
+      
+(*) In some situations (e.g. gusty conditions or strong crosswind), the flight crew may choose a higher V than the AFS computation as good airmanship. 
+
+PROCEDURES 
+Control your Speed... During Descent, Approach and Landing 
+VAPP in the case of a system failure 
+In the case of a system failure during flight, the flight crew computes a new VAPP value: 
+VAPP System Failure = VREF + DVREF + APPR COR With VREF = VLS CONF FULL 
+DVREF is the speed increment related to the failure to counter associated handling qualities issues and/or increased stall speed. 
+APPR COR depends on the DVREF, the ice accretion, the headwind value and the use of autothrust. 
+For more information on the determination of VAPP with failure by the flight crew, refer to the Flight Crew Techniques Manual (FCTM). 
+     
+The FMS can compute an accurate and optimized descent profile, provided the descent winds have been entered in the FMS during the descent preparation, and provided the PERF and IDLE factors are tuned according to the actual aircraft performance. 
+MANAGING SPEED DURING DESCENT 
+The descent profile computed by the Flight Management System (FMS) is a very efficient and useful tool to help the flight crew in managing the aircraft energy during the descent and approach phases. 
+Descent Profile Computation 
+The FMS can compute an accurate and optimized descent profile, provided the descent winds have been entered in the FMS during the descent preparation, and provided the PERF and IDLE factors are tuned according to the actual aircraft performance. 
+To locate the Top of Descent (T/D), the FMS computes the descent profile backwards from the Missed Approach Point (MAP) , assuming the aircraft is stabilized at its VAPP 1000ft above the runway elevation, up to the T/D. 
+
+The FMS assumes the use of managed speed and accounts for all the speeds and altitude constraints coded on the FMS flight plan. Refer to (fig.10). 
+During the descent, approach and landing the managed speed is equal to either: 
+	-  ECON DES speed or the descent speed manually entered in the PERF DES page of the FMS, or 
+	-  The speed constraint, or 
+	-  The manoeuvring speed of the current aircraft configuration, or 
+	-  VAPP. 
+Safety First #24 | July 2017 013 
+ 
+Top of Descent (T/D) 
+(fig.10) 
+Typical managed descent profile (without Continuous Descent Approach (CDA) function) 
+ 
+Cruise Altitude 
+  
+Crossover Altitude 
+FL100 
+Target Speed Actual speed 
+“AT or BELOW” Altitude “AT” 
+Constraint Altitude 
+Constraint 
+ECON DES SPD 
+250kt Speed Limit 
+D 
+250 
+Final Descent Point 
+ 
+Decel Point 
+        
+ECON DES MACH 
+L/G Down 
+Final Capture Altitude 
+VAPP at 1000ft AGL 
+   
+UP 
+DOWN 
+1000ft 
+VAPP 
+   
+SF 
+FLAPS 2 1 
+3 
+FLAPS FULL 
+  
+
+PROCEDURES 
+Control your Speed... During Descent, Approach and Landing 
+IMPACT OF THE WIND ON THE DESCENT PATH 
+The descent path computed by the FMS uses the forecasted wind entered in the DESCENT WIND page. However, in flight, actual conditions may vary from the predicted ones. As a consequence, the difference 
+between the predicted descent wind and the actual wind (Δwind) affects the aircraft’s behavior. If the speed target is maintained (as in OP DES mode), the aircraft tends to leave the FMS computed idle path (fig.11). 
+(fig.11) 
+Impact of the wind on the aircraft path 
+FMS Wind 
+Actual Wind 
+∆ wind 
+∆ wind 
+FMS Wind 
+Actual Wind 
+          
+FMS Computed Path 
+       
+
+Managed Descent (DES) 
+The managed descent mode guides the aircraft along the FMS computed vertical flight path. The DES mode is preferred when conditions permit since it ensures the management of altitude constraints and reduces the operating cost when flying at ECON DES speed. 
+The DES mode is only available when the aircraft flies on the FMS lateral flight plan, i.e. when the aircraft uses the NAV horizontal guidance mode. 
+∆ wind (FMS wind vs Actual wind) 
+PFD Speed Scale 
+On idle segment 
+In DES mode with managed speed the elevators adjust the pitch to enable the aircraft to stay on the computed path and the A/THR commands idle thrust. 
+The AFS allows the aircraft speed to vary in a range of +/- 20 knots around the managed speed target (+5 kt or -20 kt in the case of a speed constraint), limited to VMAX -5kt to stay on path: 
+- If the speed decreases down to its lower limit, the A/THR will increase the thrust 
+- If the speed reaches its upper limit, the aircraft will leave the path to maintain the upper limit speed. 
+(fig.12) 
+Speed range principle during the idle segment of a managed descent. 
+Safety First #24 | July 2017 015 
+                        
+More Headwind or less Tailwind 
+Less Headwind or More Tailwind 
+                 
+Intercept Point (on ND) 
+                                   
+
+PROCEDURES 
+Control your Speed... During Descent, Approach and Landing 
+On geometric segment 
+On the geometric segment, the A/THR adapts thrust to maintain the managed speed target. 
+Use of speedbrakes in DES mode 
+The use of speedbrakes in DES mode must be limited to the situation where there is either a strong tailwind or much less tailwind than expected, and the aircraft diverges from the profile. The flight crew should increase drag by extending the speed brakes (fig.12). 
+As a visual clue the ND displays the intercept point at which the aircraft will reach the profile with half speed brakes extended. If the flight crew does not extend the speed brakes the interception point will continuously move forward along the flight plan. If the interception point gets closer to an altitude constraint, a ‘MORE DRAG’ or EXTEND SPD BRK’’ message is displayed on the FMA and on the MCDU scratchpad/MFD. 
+Note: The speed range does not apply below FL 100 for A350 and A330 equipped with HONEYWELL P5 FMS 2 release 2. In this case, the aircraft stays on the path and the flight crew must monitor the speed and use speedbrakes when appropriate. 
+   
+In OP DES mode, the A/THR 
+commands idle thrust and the elevators adjust the pitch to maintain the target speed. 
+(fig.13) 
+Adjustment of the selected speed to modify the descent path. 
+Selected Descent (OP DES and V/S)In OP DES mode, the AFS commands idle thrust and the elevators adjust the pitch 
+to maintain the target speed (managed or selected).The OP DES mode can be used to increase or reduce the descent slope. In OP 
+DES, the flight crew adjusts the target speed to modify the descent path (fig.13). 
+Selected Speed Increase =Descent Slope Increase 
+               
+
+The flight crew can use the V/S mode during descent to get accurate guidance to recover the intended flight path by adjusting the V/S using the V/S selector. 
+In V/S mode, the AFS adjusts pitch and thrust to maintain the selected vertical speed and the target speed. 
+Tools for Energy Management during Descent V/DEV Indication 
+When in NAV lateral mode, the flight crew uses the ‘‘yoyo’ indication to estimate its position relative to the FMS computed path. The Vertical deviation (V/DEV) value is provided on the FMS PROG page (A320/A330/A340) (fig.14) or PERF DES page (A380/A350). 
+V/DEV or "yoyo" 
+Energy Circle 
+When in HDG or TRK lateral mode, the ND displays the energy circle, and when the aircraft is within 180 NM of its destination. It provides a visual cue of the minimum required distance to land, i.e. the distance required to descend in a straight line from the current aircraft position at its current speed down to the altitude of the destination airport at approach speed. The descent profile used to compute the distance takes into account speed limits, the wind, a deceleration level off segment and a 3° final approach segment (fig.15). In other words, if the destination airport is inside the energy circle, the flight crew needs to lose some energy by extending the speed brakes and/or modifying the aircraft’s trajectory, and/or increasing speed during descent. 
+(fig.14) 
+example of V/DEV indication on the PFD and on the FMS PROG page (A320) 
+Safety First #24 | July 2017 017 
+       
+In HDG or TRK lateral mode, 
+the Energy Circle provides a visual cue of the minimum required distance to land. 
+
+PROCEDURES 
+Control your Speed... During Descent, Approach and Landing 
+(fig.15) 
+Energy Circle Computation Principle 
+Current Aircraft Altitude 
+Descent from Current Altitude 
+   
+Destination Airport Altitude 
+  
+Deceleration Level-off 
+3° Final Approach Slope 
+    
+(fig.16) 
+Level-off Arrow Computation Principle 
+Current Aircraft Altitude 
+Required Distance to Land 
+Level-off Arrow 
+ 
+Another useful tool to use during descent is the level-off arrow provided by the FMS. It provides an indication to the flight crew of where the aircraft will reach the altitude selected on the FCU (fig.16). A blending of actual wind conditions and the values for winds entered in the FMS are used to improve the accuracy of the computation. If in selected descent, the flight crew can adjust the speed of the aircraft to adapt the descent path or V/S to the situation. 
+    
+FCU Altitude 
+  
+Required distance to reach FCU Altitude 
+ 
+
+Overspeed Avoidance during Descent Manual Flight at Crossover Altitude 
+When in descent close to MMO, if in manual flight (AP off), the risk of exceedance of the VMO at the crossover altitude is high. In this situation, the flight crew should know its crossover altitude and anticipate the switch to speed by reducing the aircraft pitch on approaching the crossover altitude. 
+Impact of Wind Direction 
+Flight crews should pay particular attention monitoring their speed in descent close to VMO/MMO and when flying close to the wind direction (fig.17). The impact of a wind gradient can be significant and bring the aircraft beyond VMO/MMO. 
+Safety First #24 | July 2017 019 
+ 
+(fig.17) 
+Impact of wind direction 
+Flying close to the wind direction == 
+Strong impact of potential Limited impact of potential wind gradients on aircraft speed wind gradients on aircraft speed 
+  
+Wind 
+Headwind Component 
+Wind 
+Headwind Component 
+ 
+Flying far from the wind direction 
+
+PROCEDURES 
+Control your Speed... During Descent, Approach and Landing 
+
+(fig.18) 
+Example of decelerated approach 
+MANAGING SPEED DURING APPROACH AND LANDING 
+Initial Approach 
+When reaching the Initial Approach Fix (IAF) the flight crew should have a defined approach strategy based on the selected type of approach: a choice of the guidance mode that will be used and the associated approach technique (decelerated approach or early stabilized approach). The flight crew is then ready to start the key phase of the approach in terms of speed management: the Intermediate Approach phase. 
+
+DECELERATED APPROACH (WITHOUT CDA FUNCTION) 
+The decelerated approach is the default strategy used by the FMS to compute the descent and approach path. It is the recommended strategy for approaches using managed vertical guidance: ILS, GLS, SLS, MLS, FLS and FINAL APP. 
+In a decelerated approach, the aircraft is decelerating during its final approach segment to be stabilized at VAPP at 1000ft above the airport elevation. In most cases, it reaches the Final Descent Point (FDP) in CONF1 at S speed. However, 
+in some cases, when the deceleration capabilities are low (e.g. heavy aircraft, a high elevation airport or tailwind), or for particular approaches with a deceleration segment located at low height, the flight crew should select CONF 2 before the FDP. The FCOM recommends to select CONF 2 before the FDP when the interception of the final approach segment is below 2000ft AGL (A320) or 2500ft AGL (A330/A340, A350 and A380). In this case, for ILS, MLS or GLS approaches, or when using FLS guidance, it is good practice to select FLAPS 2 when one dot below the glideslope on the PFD deviation scale. 
+Final Descent Point 
+ 
+Decel Point 
+D 
+   
+Target Speed Actual speed 
+L/G VAPP at 1000ft AGL Down 
+     
+250 
+UP 
+DOWN 
+F 
+1000ft 
+VAPP 
+
+S 
+
+
+ 
+
+Intermediate Approach 
+The Intermediate Approach phase starts at the deceleration point or earlier, if the flight crew activates manually the approach phase of the FMS. 
+The aircraft reduces speed from its last descent speed, generally 250kt, corresponding to the speed limit below FL100. The aircraft slows down to green dot speed and then slows further to the manoeuvring speed for the various Slats/ Flaps configurations. It finally ends up at VAPP at or before the stabilization point (decelerated approach) or at or before the Final Descent Point (early stabilized approach) depending on the approach strategy. 
+Airbus recommends using A/THR in managed speed to reduce crew workload. If the flight crew needs to use selected speed, they should revert to managed speed when out of the ATC speed constraint because it will ease the deceleration handling. 
+EARLY STABILIZED APPROACH (WITHOUT CDA FUNCTION) 
+(fig.19) 
+Typical early stabilized approach 
+Safety First #24 | July 2017 021 
+ 
+The early stabilized approach is the recommended technique for approach using selected FPA vertical guidance. When the interception height of the final descent segment is low (below 2000ft for A320 or 2500ft for A330, A340, A350 and A380), it may also be used as an alternative to the decelerated approach to reduce flight crew workload. Early stabilized approach 
+can also be used when the weather conditions make it too difficult to use the decelerated approach. During an early stabilized approach, the aircraft reaches the FDP at VAPP and in its landing configuration. To do so, the flight crew enters a speed constraint at the FDP in the FMS flight plan to enable the FMS to compute an associated deceleration point. 
+
+Decel Point 
+D 
+250 
+Final Descent Point 
+VAPP at the Final Descent Point 
+        
+Target Speed Actual speed 
+L/G Down 
+UP 
+DOWN 
+F 
+  
+S 
+ 
+FLAPS 1 
+2 
+3 
+VAPP 
+FLAPS FULL 
+ 
+
+PROCEDURES 
+Control your Speed... During Descent, Approach and Landing 
+
+(fig.20) 
+Typical CDA approach 
+The deceleration rate of the aircraft varies with its weight. A heavy aircraft will not decelerate as quickly as a lighter aircraft. 
+Whatever the Approach technique chosen by the flight crew (decelerated or early-stabilized approach), respecting stabilization criteria is key for a successful landing. Refer to the Flight Crew Operating Manual FCOM/PRO-NOR-SOP-18-A Stabilization Criteria. 
+ 
+CONTINUOUS DESCENT APPROACH (CDA) FUNCTION 
+The CDA function removes the deceleration level-off segment for fuel economy and noise reduction purposes. The function displays pseudo waypoints on the ND to indicate where to extend the flaps at the latest to reach the stabilization point (VAPP at 1000ft AGL for decelerated 
+approaches and Vapp at the FDP for early stabilized approached). CDA is basic on A350 aircraft and will be available as an option on A320 and A330 aircraft families on aircraft equipped with Release2 FMS standards from Honeywell. 
+  
+Decel Point 
+D 
+FLAPS 2 Pseudo Waypoint Pseudo Waypoint 
+FLAPS 1 
+12 
+Final Descent Point 
+L/G Down 
+UP 
+DOWN 
+F 
+   
+Target Speed Actual speed 
+250 
+VAPP at 1000ft AGL 
+No level-off Deceleration segment 
+      
+S 
+1000ft 
+VAPP 
+
+
+ 
+BEST PRACTICE 
+ 
+If needed and below VLO/VLE, early extension of the landing gear can help the aircraft to decelerate. The additional drag of the landing gear has a strong effect on the aircraft deceleration rate. 
+ 
+
+Final approach and landing Speed Monitoring during approach and landing 
+When close to the ground, the wind can change, especially when in gusty conditions, and have a direct impact on the aircraft speed. As a consequence, monitoring of airspeed is crucial during final approach and landing to avoid:- Runway undershoot, hard landing or tail strike if the aircraft speed becomes 
+too low, or- Runway overrun if the speed becomes too high. 
+If gusty conditions are expected at the destination airport, the flight crew can add an appropriate margin to the VAPP and manually enter the new VAPP in the FMS PERF APPR page. 
+Airbus recommends the use of autothrust during final approach to reduce crew workload and benefit from the Ground Speed Mini function (GS mini). 
+Monitoring of airspeed is crucial 
+during final approach and landing. 
+Safety First #24 | July 2017 023 
+  
+
+PROCEDURES 
+Control your Speed... During Descent, Approach and Landing 
+
+WHAT IS THE GROUND SPEED MINI FUNCTION? 
+Significant headwind changes can be caused by the boundary layer effect when the aircraft is getting closer to the ground. Ground speed mini function ensures that the aircraft speed remains at least at VAPP if a stronger than expected headwind were to suddenly drop to the tower wind value or below. The GS mini function is only available when the flight crew uses the managed SPEED mode. 
+The AFS constantly computes and displays a target Indicated Airspeed (IAS) using: 
+(fig.21) 
+Ground speed mini function 
+- The approach speed (VAPP computed by the AFS or manually entered in the FMS), 
+- The tower headwind component from the tower wind value entered by the flight crew in the PERF APPR page of the FMS, and 
+- The current wind measured by the ADIRS. 
+As a consequence, the flight crew must ensure that the tower headwind value has been correctly entered in the FMS, even if it does not increase the VAPP (i.e. headwind < 15kts). 
+k x ∆ Headwind 
+
+
+  
+Max Max(1/3 Tower (1/3 Tower Headwind; 5kt) Target Headwind; 5kt) 
+Target IAS = 
+
+V IASVAPP= VAPP+ 
+V VAPP LS kx 
+∆ HeadwindCurrent Headwind > Tower Headwind 
+Target IAS = VAPP + k ∆ Headwind With ∆ Headwind = Current Headwind - Tower Headwind 
+Why is there a different ‘k’ factor for ground speed mini depending on the aircraft model? 
+LS V 
+Current Headwind ≤ Tower Headwind 
+APP 
+ 
+Target IAS = VAPP 
+The factor of 1 used on A320ceo aircraft could not be used for the other aircraft models due to differences of their deceleration capability. The A320ceo has a stronger deceleration capability when compared to A320neo, A330/A340 family aircraft, A350 and A380 aircraft. 
+In the case of a strong ground effect, a lower deceleration capability may lead to an excessive speed at flare. For example, a 20kt headwind at 200ft that reduces to 5kt on ground (corresponding to the 5kt tower headwind 
+inserted in FMS PERF APPR page), a factor of 1 requires a deceleration of 15kt to reach VAPP. With a k value of 0.33, the aircraft only needs to decelerate by 5kt to compensate its lower deceleration capability. It reduces the risk of excessive speed at flare. The drawback is that there is a slight increase in thrust variations in gusty conditions, since the speed increment will not be sufficient to counteract the IAS increase due to a gust. The best overall compromise was demonstrated to be a 0.33 factor. 
+
+Manual Landing 
+In Normal or alternate law, the flight controls maintain the aircraft load factor demand (flight mode), if there is a wind change, the aircraft will maintain its path causing the speed to increase or decrease. This cannot be perceived by a pilot while looking outside, as the trajectory will not change (the aiming point will not move). Therefore, with autothrust disengaged, the flight crew must carefully monitor the speed as to detect any speed change. The role of the Pilot monitoring (PM) is key in this situation, especially when close to the ground. 
+Stabilisation criteria 
+Flight crews must respect the stabilisation criteria provided in the FCOM Standard Operating Procedures (SOPs). These criteria ensure a safe approach and landing. The aircraft must be at approach speed with stabilized thrust at the stabilisation height (1000 ft AGL in IMC, 500 ft in VMC or according to airline’s policy) If it is not the case, the PM should make a callout and a go around must be initiated if the flight crew assesses that the stabilisation can’t be obtained prior landing. 
+Flight crews must respect 
+the stabilisation criteria providedin the FCOM Standard Operating Procedures. 
+Safety First #24 | July 2017 025 
+ 
+The aircraft can be in either an over energy or low-energy situation at landing if the crew does not manage the aircraft’s speed correctly from top of decent, through approach and down to the flare. The consequences upon landing are increased risk of runway excursion, tail strike, hard landing or runway undershoot. 
+Whatever the level of automation chosen during descent, approach and landing, the flight crew should be aware of its capabilities, take full advantage of the tools available on airbus aircraft and apply the procedures and techniques provided in the FCOM/QRH and FCTM. 
+CONTRIBUTORS: 
+Philippe CASTAIGNS 
+Experimental Test Pilot 
+Lorraine DE-BAUDUS 
+Flight Operations Standards & Safety management 
+ 
+OPERATIONS 
+Troubleshooting Airframe Vibrations 
+ 
+Troubleshooting Airframe Vibrations 
+As moveable structural components such as control surfaces and landing gear doors age, wear of hinges and actuators can sometimes lead to airframe vibrations. These vibrations can cause noise and physical discomfort in the passenger cabin. 
+To prevent further deterioration of components, the cause of vibration should be quickly identified and removed. For this, maintenance personnel require Flight Crew to make observations of the vibration using a Vibration Reporting Sheet (VRS). 
+A clear understanding of how to complete the VRS is important before starting the observations. Some parts of the VRS require manual control inputs with Autopilot OFF and therefore cannot be performed in RVSM airspace. 
+
+AIRFRAME VIBRATIONS DURING FLIGHT 
+In-service experience 
+Today, the Airbus fleet benefits from many years of accumulated in-service experience, and is relatively free from reports of airframe vibration during flight. However, airframe vibrations are still sometimes reported. 
+When an airframe vibration occurs, it can be identified by people inside the aircraft. Depending on the source of the vibration, it may be experienced either as a physical movement, or as noise, or as both a movement and noise. These experiences can cause passenger concern and discomfort. Additionally, any vibration indicates increased wear of components. For both these reasons, identification of the cause of the vibration should be established quickly. 
+Causes of vibration 
+Due to the size of the fleet, the majority of reports of airframe vibrations on Airbus aircraft are received on A320 Family models. To identify the causes of vibration, Airbus organised a four year working group with airlines and equipment manufacturers, which focussed on the A320 Family fleet. This work identified that the majority of vibrations arise in the aircraft tail section, including 57% of vibrations from the rudder, and 15% from the elevator. Moveable control surfaces in the wings together account for only 11%, whereas sources in belly fairings, passenger and landing gear doors account for 17%. 
+Vibrations experienced on 
+board an aircraft can lead to passenger concern and discomfort. 
+Safety First #24 | July 2017 027 
+
+(fig.1) 
+Main sources of vibration on A320 Family aircraft, identified by the Airframe Vibration working group 
+ 
+
+OPERATIONS 
+Troubleshooting Airframe Vibrations 
+Limited Cycle Oscillations do not 
+create any handling or performance concern. 
+The main contributor to vibrations, particularly on flight control surfaces, is free-play of servo-control bearings, servo-control attachments, and and/or surface hinge lines (bearings & attachment). Free-play is primarily caused by wear. 
+When free-play is present, the flight control surface or door will have a tendency to oscillate slightly within the space created by the free-play whenever the surface is at zero hinge-moment. When in this condition, an observable vibration will only start if an energy input is provided, typically from aerodynamic effects of a sufficiently high air speed. This phenomenon is called a ‘Limited Cycle Oscillation’ (LCO). 
+Limited Cycle Oscillations (LCO) and Safety 
+LCO are characterised by a stable and non-divergent vibration of constant amplitude and frequency, after initiation by the triggering input. LCO do not create any handling or performance concern, since surfaces and systems remain fully efficient during the vibration. It is a stable self-sustained non-diverging phenomenon. 
+An LCO vibration cannot diverge into flutter because whenever the LCO amplitude increases, the damping term involved in LCO mechanics also increases and leads automatically to a decrease of amplitude. The extra damping comes from the increased stiffness caused by the increased amplitude on the involved free-play area; the force of components pushing against each other. 
+
+(fig.2) 
+Waveform of a Limited Cycle Oscillation (LCO). 
+An LCO vibration cannot diverge intoa flutter phenomenon because any increase in vibration amplitude is damped by the force of components pushing against each other. 
+ 
+Excitation 
+Constant Frequency 
+Constant Amplitude 
+ 
+Since airframe vibrations only 
+occur during flight, maintenance personnel will need pilots to make observations of the vibration. 
+TROUBLESHOOTING AIRFRAME VIBRATIONS 
+Reporting to maintenance personnel 
+Upon experiencing an airframe vibration, quick action is recommended in order to identify and resolve the cause of the vibration. It is therefore important that flight crew report the vibration to their maintenance personnel. 
+Maintenance personnel are provided with appropriate procedures in the Trouble- Shooting Manuals (TSM) for resolving the issue. However, since airframe vibrations only occur during flight, maintenance personnel will need pilots to make observations of the vibration. 
+Excitation 
+Energy such as sufficient airspeed is needed in order to excite a vibration 
+Constant oscillation 
+LCO vibration remains limited at same frequency & amplitude. Structural damping prevents divergence to flutter 
+ 
+
+The Vibration Reporting Sheet (VRS) 
+To collect pilot observations, a ‘Vibration Reporting Sheet’ (VRS) is provided within the TSM procedure ‘Identification of the cause of In-Flight Airframe Vibrations and/ or Noises’. A well completed VRS will provide sufficient information to maintenance crew to help them complete a Decision Tree and Decision Table, so that they can identify the specific part of the aircraft which is vibrating. 
+As can be seen in (fig.3), the VRS is split into four sections as follows: 
+1. Flight conditions when the vibrations and/or noise occur2. Observations when the vibrations and/or noise occur3. Parameter changes with AP ON that have an effect on vibration 4. Parameter changes with AP OFF that have an effect on vibration 
+Section 1 of the VRS collects basic flight information. Sections 2 to 3 include further data collection fields which do not require pilots to make any specific control inputs. 
+If a control input is made and 
+the vibration stops, knowing which control surfaces have been commanded helps identify 
+the source of the vibration. 
+(fig.3) 
+The Vibration Reporting Sheet (VRS) 
+Safety First #24 | July 2017 029 
+             
+The VRS is found within the relevant maintenance documentation for troubleshooting airframe vibrations, as listed in the table below. The contents of the VRS are almost identical for each Airbus aircraft model. A350 XWB documentation is planned to be incorporated into Line Maintenance documentation by Q1 2018. 
+         
+
+
+A320 Family TSM 
+A330 / A340 TSM 
+A380 TSM 
+A300-600 / A310 TSM 
+05-50-00-810-801-A 
+05-50-00-810-819-A 
+05-50-00-810-828-A 
+05-50-00 Figure 101 
+                    
+
+OPERATIONS 
+Troubleshooting Airframe Vibrations 
+The information needed in Section 
+3oftheVRScanbe collected withthe autopilot ON, whereas Section 4 requires the autopilot to be OFF. 
+The information needed in section 2 can be found when the vibration occurs, by observation of the aircraft, its instruments, and the vibration. Corroboration of flight crew with cabin crew observations of where the vibration is the strongest is recommended for a higher reliability of the reported information. 
+Vibrations can be caused when a control surface is in the zero hinge-moment position. Therefore, the principle for the information collected in sections 3 and 4 is to monitor the vibration when a control input is made and a control surface is moved out of the zero hinge-moment position. If a control input is made and the vibration changes, this gives a useful indication of the surface involved in the vibration. 
+However, there is an important difference between the pilot actions necessary for section 3 and the actions necessary for section 4. 
+The information needed in section 3 of the VRS can be collected by observing the aircraft with the autopilot ON, whereas the information in section 4 of the VRS can only be collected with the autopilot OFF. The goal is to observe any change in the vibration, including whether it becomes weaker or stops, or becomes stronger. 
+In section 3, observations are made whenever the autopilot itself commands a change in thrust setting, turn, climb or descent. The only manual action listed in this section of the VRS is selection of the speed brakes by a few degrees. A change of the vibration due to speed brake extension can indicate that the vibration originates in the elevator. 
+Either elevator or rudder would be implicated as the source of vibration if a change in the vibration results from a change in altitude setting or in thrust setting. Ailerons would be the principle structural element impacted if the vibration is changed during a turn. 
+Section 4 of the VRS is only intended to be used if sections 2 and 3 do not succeed in helping identify the source of the vibration. Observations of the vibration are made when the pilot flying directly makes small and smooth flight control inputs, using the side-stick for pitch and roll inputs, or the rudder trim for yaw inputs. 
+A change in the vibration due to a pitch input indicates that the elevator is the most likely source of vibration. A change in the vibration due to a yaw input indicates the rudder is the most likely source of vibration. And finally, a change in the vibration due to a roll input primarily indicates that the vibration comes from the ailerons. 
+  
+
+Safety First #24 | July 2017 031 
+
+THE VRS IN PRACTICE 
+RVSM airspace 
+Today, the vast majority of commercial aviation operations takes place within Reduced Vertical Separation Minima (RVSM) airspace. A regulated requirement of conducting operations in RVSM airspace is to maintain an Auto Pilot (AP) engaged in order to ensure that the aircraft does not deviate from its assigned altitude. 
+Sections 1 to 3 of the VRS can all be completed with the AP ON. However, section 4 can only be completed with the AP OFF, and therefore cannot be performed in RVSM airspace. This condition means that completing section 4 of the VRS may not always be appropriate in all airline operations. 
+Airline policy 
+Although flying with AP OFF is a normal task for pilots, some operators prefer to have only technical pilots complete section 4 of the VRS because it may involve non-routine manoeuvres. Some operators prefer to conduct VRS evaluations on a non-revenue flight. 
+Section 4 of the VRS can only 
+be completed with the AP OFF, and therefore cannot be performed in RVSM airspace. 
+ 
+
+OPERATIONS 
+Troubleshooting Airframe Vibrations 
+In whichever way an operator chooses to complete section 4 of the VRS, the associated instructions in the TSM clarify the appropriate technique for implementing the procedure. This includes the following points: 
+Appropriate technique for applying section 4 
+When permitted by flight conditions and airline policy, and when not in RVSM airspace, the flight crew can disconnect the Auto Pilot to try to identify the source of the vibrations 
+All inputs must be smooth and follow the Flight Director (FD) bar guidance 
+Usually only very small inputs are sufficient to stop the vibration 
+Large control inputs are neither required nor recommended for the purpose of VRS evaluation, especially when flying with passengers on-board 
+Apply the procedure in the sequence pitch, roll and then yaw 
+If vibrations do not stop, apply small rudder trim inputs of +/- 1.5° MAX (yaw) 
+Do not use rudder pedals• When the reporting is completed, AP should be set back on again as required In-flight aircraft vibrations can sometimes be experienced, leading to passenger discomfort. The vibrations are caused generally caused by wear of components. These vibrations do not create any handling or performance concern, and cannot diverge into flutter since they are damped by the surrounding structure and systems. However, to prevent further degradation of equipment, they should be resolved quickly. To help identify the source of the vibration, observations must be made during flight. Maintenance personnel provide the flight crew with a Vibration Reporting Sheet (VRS), which structures flight crew observations of the vibration into a useful form for maintenance personnel. Sections 1 to 3 of the VRS can be completed by pilot observation only, without any need for specific action. If sections 1 to 3 of the VRS do not allow to identify the source of the vibration, it becomes necessary to apply section 4. Section 4 of the VRS can only be performed with Auto Pilot OFF, and therefore cannot be completed in RVSM airspace. An appropriate technique has to be applied for these evaluations. Some airlines prefer to have the section 4 procedures completed by technical pilots on a non-revenue flight. 
+
+Further readingISI A320 Family 
+ISI A320 Family 
+FOT A320 Family 
+27.34.00002 
+27.24.00001 
+999.0084/11 
+Elevator vibrations prevention 
+Prevention of the rudder vibration 
+In flight vibrations reporting 
+In flight vibration and noise reporting 
+
+  
+FOT A380 999.0004/14 
+ 
+CONTRIBUTORS: 
+Capt. Christian NORDEN 
+Director Flight Operations & Training Policy 
+Jean-François BOURCHANINFlight control systems expert, Customer Services 
+Nicolas SEYNAEVE 
+Stabilizers Product Leader Senior Structure Engineer Structure Engineering Support Customer Services 
+Florence DOYEN 
+Operational and Training Policy 
+Christophe LE-GARREC 
+Aeroelastics Engineer 
+ 
+Safety First #24 | July 2017 033 
+ 
+OPERATIONS 
+Preventing Falls from Height 
+  
+Preventing Falls from Height 
+Falling from an aircraft can cause serious injuries to people. Specific safety equipment is installed on Airbus aircraft, and when used correctly, can prevent falls from height. This article describes the available safety equipment for Airbus aircraft and recalls the basic safety precautions that will help to avoid falling from height injuries to everyone on the aircraft. 
+
+The Falls From Height (FFH) hazard at aircraft level can be categorized into two main categories: (i) falling from the aircraft doors and (ii) falling from the aircraft’s structure. This article provides an overview of the various servicing equipment that are available for Airbus aircraft and the associated recommendations. 
+FALLS FROMTHE AIRCRAFT’S DOORS 
+Any person entering the aircraft is exposed to the hazard of falling from the doors. This includes Airlines’ personnel (flight crew, cabin crew, maintenance personnel) as well as passengers, and external ground staff such as servicing, cleaning and catering personnel. Aircraft doors refer to passenger doors, cargo doors and ground service access doors to various areas of the fuselage. 
+During transit or during maintenance visits, the aircraft doors may need to remain open for a number of reasons. In such cases, safety equipment must be used and certain precautions followed. 
+Safety First #24 | July 2017 035 
+  
+
+OPERATIONS 
+Preventing Falls from Height 
+The safety strap is a device 
+used for indication purposes. 
+(fig.1) 
+Safety Strap Operation. Extract of the A330 Cabin Crew Operating Manual (CCOM) 
+Cabin Door Safety Strap 
+All passenger doors of Airbus aircraft are equipped with a safety strap (fig.1). The safety strap, rolled and stowed in each cabin door frame, is a device used for indication purposes only. It should only be used for a limited time pending the closure of the door. A safety strap does not prevent from a fall. The Cabin Crew Operating Manual (CCOM), states that whenever a cabin door is open with no stairs or no gateway in position, the safety strap should be installed and the door should not be left unattended. 
+ 
+Whenever a cabin door is open 
+with no stairs or no gateway in position, the safety strap should be installed and the door should not be left unattended. 
+
+Door Safety Barrier (Door Net) 
+When a door remains open and unattended for a long period of time, Airbus recommends the installation of a safety barrier (fig.2) in absence of stairs or gateway. This same recommendation is made in IATA’s Airport Handling Manual (AHM). The safety barrier is designed to prevent people from falling through the open doorway. It is the most efficient protection against falls from an open door. All Airbus aircraft have a safety barrier available for each door type including passenger doors, emergency doors and cargo doors. The Safety barrier is not stored on board the aircraft. It is installed by maintenance personnel and its reference can be found in the Tool and Equipment Manual (TEM) for each aircraft type. 
+When a door is remains open and 
+unattended for a long period of time Airbus recommends the installation of a safety barrier in absence of stairs or gateway. 
+(fig.2) 
+Example of an A380 Door Safety Barrier. Extract from the A380 AMM. 
+Safety First #24 | July 2017 037 
+
+ 
+Z200 
+B 
+A 
+C 
+B 
+A 
+98L52003000-001 
+       
+98L52003000-000 
+C A 
+EXAMPLE MAIN DECK 
+STOP FITTING 
+3 
+MOVE TO INSTALL / REMOVE 
+  
+C 
+C 
+4 1 
+  
+B2C EXAMPLE UPPER DECK EXAMPLE 
+
+OPERATIONS 
+Preventing Falls from Height 
+(fig.3) 
+Example of a RPWS on an A350 cabin door 
+Airbus Recommendations to Avoid Falls from the Passenger Doors 
+Opening a passenger door 
+To open a passenger door, the procedure and associated safety precautions listed in the Aircraft Maintenance Manual (AMM) or CCOM must be followed. A check that the Residual Pressure Warning System (RPWS) does not flash (fig.3) confirms that there is no residual air pressure in the cabin to avoid potential injuries or falls due to an unexpected violent opening of the passenger door. Refer to the Article “Residual Cabin Pressure” from the issue #3 of the Safety first magazine. 
+ 
+General recommendations 
+When approaching an open door whilst on board the aircraft, flight crew, cabin crew and ground personnel should confirm the presence and correct positioning of an aerobridge, stairs or access platform. If none are present, either close the door, if it is not necessary for the door to remain open or install the safety strap and monitor the open door until the stairs, access platform or gateway are put in place. 
+When removing aerobridge or stairs 
+Inform anyone on the aircraft when ground personnel remove the aerobridge, stairs or access platform from the aircraft’s passenger door to ensure they are aware to not use that door to exit the aircraft. Then ensure the door is secured by either closing it, or installing a safety barrier prior to removing the stairs. 
+ 
+
+
+OPERATIONS 
+Preventing Falls from Height 
+Safety Harness 
+As per AMM procedures, safety harness shall be used by maintenance personnel when working from height. The safety harness is composed of the harness itself and of a safety rope that has to be attached to suitable attachment point. Safety Harness’ condition is inspected regularly. A validity date is displayed on each harness. If the validity date is exceeded, the harness is considered unserviceable and must not be used. 
+List of attachment points 
+Several attachment points are available on the aircraft structure. They are listed in the AMM and are identifiable by a placard (fig.5). 
+ATTACHMENT POINT 
+  
+(fig.5) 
+Description of an attachement point – extract of the A380 AMM 
+          
+(fig.6) 
+Use of a wingrip system on an A320 wing. Photos courtesy of Latchways 
+B 
+Use of wingrip system 
+When working on the wings, the AMM recommends the use of wingrip, which is a system used to attach the safety rope and harness with single or multiple moveable vacuum pads (fig.6). Installing and using a wingrip system must be done by specifically trained personnel. The associated procedure and safety recommendations are provided in the AMM. 
+   
+
+A380 TAIL CONE AREA SAFETY IMPROVEMENT 
+Following a reported injury to a mechanics performing maintenance tasks in the fuselage area aft of the rear pressure bulkhead of an A380 on the ground, Airbus responded with a mitigation to install an additional safety device in the sizeable tail cone area of this aircraft (fig.7). 
+The person who was injured initially used the access door 311AB located forward of frame 108 and then proceeded to climb through a cut- out in the frame 108 to access to the rear part of the tail cone area. The access door 313AB should normally be used to access this area. Access door 313AB is also designed as a blow-out panel by releasing its spring-loaded latch and opening if there is excessive air pressure differential pushing on the inside surface of the door in flight. When the person inadvertently stepped on the inside surface of the access door 313AB, its spring loaded latch 
+released and this access door opened causing the person to fall from the height of the tail cone to the ground level. 
+The Airbus modification adds two safety nets for this area, which prevents access from one compartment to the other, together with warning labels around the cut-outs of frame 108 and larger warning placards on the insides of the access doors. A monitored retrofit campaign is on-going to modify the in-service A380 fleet and these features are now included on all delivered A380 aircraft. 
+When accessing any compartment of the aircraft to perform maintenance or ground servicing tasks, it is important to follow the instructions of the Aircraft’s Maintenance Manual (AMM) and to only gain access to specific compartments in the fuselage using the appropriate access door designated by the AMM procedure. 
+(fig.7) 
+A380 Safety Improvement 
+Safety First #24 | July 2017 041 
+                                                                                                                                                        
+
+OPERATIONS 
+Preventing Falls from Height 
+LOCAL SAFETY POLICIES 
+Local safety policies apply in addition to safety devices provided by Airbus described in this article with their associated procedures and recommendations. Each airline, maintenance and repair organisation, airport or country defines its own safety policy in terms of prevention of injuries caused by falls from height. These policies will account for local conditions, regulations and constraints in addition to following all of the, warnings, cautions or recommendations provided in the relevant manuals and as described by this article. 
+ 
+Falls from height prevention is a matter for all actors involved in the daily aircraft operations. Flight crew, cabin crew, ground personnel are all affected and must follow the local safety policy in addition to using the correct equipment and following procedures provided in the Airbus manuals to ensure that, when an aircraft is parked on the ground, nobody is falling from height. 
+CONTRIBUTORS: 
+Andreas BEHRMANN 
+Customer Support - Head of Cabin and Cargo Systems 
+Uwe EGGERLING 
+Senior Director Safety Engineering and Maintenance 
+Jean-Paul VIEU 
+Flight Operation Engineer - Cabin Standards 
+With thanks toJade PELLOQUIN and Sidney ORSOLLEfrom the Health & Safety at Airbus. 
+ 
+Safety First #24 | July 2017 043 
+ 
+AIRCRAFT 
+Progress to Pinpoint an Aircraft’s Position 
+
+Progress to Pinpoint an Aircraft’s Position 
+There are currently around 33 million commercial flights a year and this figure is expected to double in the next 15 years. An aircraft arriving safely at its destination, and within a predictable time, is an expectation of both its crew and passengers. 
+A growing number of apps are also available to the public that show an aircraft’s journey from departure to arrival, even providing seemingly real-time data for an aircraft’s speed, altitude and heading. With the technological leaps that have provided all of this information to hand and visible on our smart phones, it isnot unreasonable for members of the public and media to ask, “How can we lose track of a large aircraft flying today?” 
+
+AIRCRAFT FLIGHT TRACKING 
+Commercial aircraft flights are safer today than ever before. On the rare occasions when accidents occur, locating the wreckage by the quickest means possible is a priority to first rescue survivors and then retrieve the flight recorders or “black boxes”. 
+Capabilities and Limitations 
+Tracking aircraft increases any chances of finding survivors by providing an early response alert and locating the end-of-flight aircraft position more accurately to launch the Search And Rescue (SAR) operation. This can also support the retrieval of the flight data recorders, aiding the investigators in determining the contributing factors that may lead to industry actions that could potentially prevent a reoccurrence of the accident. 
+The aircraft tracking capability in the past mainly relied on land based infrastructure and limited satellite coverage. In fact, this has meant it was difficult to track aircraft when flying over oceans or where tracking infrastructure is not in place, including remote areas and flying over the earth’s poles. Primary radar used for Air Traffic Control surveillance often only extends roughly 200 nautical miles (or just under 400 km) over the oceans from the coast of most countries. 
+Today, when aircraft are flying in oceanic or remote areas without radar or ADS-B coverage, pilots use radio to report the position of their aircraft to the air traffic control. Or it can be transmitted using ADS-C via SATCOM or HF, which are long-range communication means. VHF Datalink is fitted to all aircraft in the Airbus fleet. For the A320 fleet, where operations are over oceanic or remote areas, then HF and SATCOM options are selectable (Fig.1). 
+... it was difficult to track aircraft when flying over oceansor where tracking infrastructure is notin place, including remote areas and flying over the earth’s poles. 
+All actors across the entire Air Transport System have been working together on improving the tracking of aircraft and recovery of the “black boxes” since it took two years to recover the flight data recorders from the AF447 wreckage in the Atlantic Ocean and following the disappearance of MH370 in 2014. This article outlines the recommendations and proposed regulations, as well as the products that are available or under development, which will allow operators of Airbus aircraft to comply with these changes. It also describes the opportunities to enhance flight tracking and localisation of aircraft in the event of an accident for more rapid search and rescue, as well as the timely recovery of the flight data. 
+Analysis of all aviation accidents since 1958 shows that less than ten percent of all fatal accidents occur in the cruise phase of flight. This is when an aircraft, flying at around 39,000ft over oceanic or remote areas, is more likely to be outside of the range of radar and ground tracking infrastructure. Therefore, there are only few events where it is difficult to determine the last position of the aircraft, locate the wreckage and then recover the flight data recorders. In the last 20 years, 24 large commercial aircraft required underwater recovery, and only one has not yet been located. 
+Safety First #24 | July 2017 045 
+ 
+
+AIRCRAFT 
+Progress to Pinpoint an Aircraft’s Position 
+
+
+(fig.1) 
+Datalink Communication means available on the Airbus Fleets 
+Regulation Drivers for Tracking Aircraft 
+Aircraft tracking is utilising aircraft position information during all phases of flight. This supports the timely and accurate location of an aircraft accident site, and recovery of flight data. ICAO issued new recommendations for flight tracking, which will be applicable for all commercial aircraft. The responsibility to track an aircraft lies with the aircraft operator. 
+Airbus has defined solutions ready for implementation by operators that help them comply with the latest aircraft tracking regulations. Each National Aviation Authority (NAA) can define their own regulation based on ICAO recommendations. Operators should check with their respective NAA to know what regulation regarding aircraft tracking is applicable for them. 
+Evolution of Recommendations and Regulations 
+Airbus is a key contributor to the various task forces launched by ICAO and IATA since 2014 and continues to contribute to the evolution of regulations as a key industry stakeholder. 
+During the high level safety conference held in 2015, ICAO encouraged states and the International Telecommunications Union (ITU) to urgently adopt regulations that provide the necessary spectrum allocations for global air traffic services where the terrestrial ADS-B signals broadcast by aircraft can be received by satellite. This led to consideration of the spectrum needs and regulatory provisions for the introduction and use of the ICAO Global Aeronautical Distress and Safety System (GADSS). ICAO subsequently released the Concept of Operations (or ConOps) document that specifies the high-level requirements and objectives for the GADSS. 
+The regulation process for Aircraft Tracking was initiated by the ICAO GADSS ConOps document and its recommendations were then transferred to ICAO performance-based Standards And Recommended Practices (SARP). The SARPs for Normal Flight Tracking are applicable from November 2018. Individual National Aviation Authorities (NAA) will define and implement their regulations based on the ICAO SARPs. 
+
+Airbus has defined 
+solutions readyfor implementation by operators that help them comply with the latest aircraft tracking regulations. 
+
+Aircraft Tracking - 4D 
+An aircraft’s position is defined by transmission of its 4D (or four dimensions of Latitude, Longitude, Altitude, and Time data every 15 minutes, together with the aircraft’s identifier. Aircraft tracking refers to both normal tracking and abnormal tracking (Fig.2). 
+Safety First #24 | July 2017 047 
+  
+(fig.2) 
+Aircraft Tracking 4D or the four dimensions of Latitude, Longitude, Altitude, and Time data 
+
+AIRCRAFT 
+Progress to Pinpoint an Aircraft’s Position 
+Some examples of abnormal events 
+may include unusual aircraft attitude, unusual speedor an engine failure in flight. 
+(fig.3) 
+Aircraft Tracking for Normal Operations and Abnormal Operations 
+Tracking Aircraft During Normal & Abnormal Operations 
+Normal tracking is currently defined in ICAO and EC regulation projects. Abnormal tracking is not yet formally included in the regulation, but it is part of the guidance materials for aircraft tracking. Airbus endorses the implementation of abnormal tracking as it may become an industry requirement in the near future, or it can be implemented by the operator’s own initiative. 
+Tracking during “Normal Operations” requires an aircraft to transmit its 4D data at least once every 15 minutes. In a case where unexpected aircraft behaviour is detected, the “Abnormal Operations” mode automatically increases the position reporting frequency based on certain triggering parameters. If the conditions that led to the increased reporting rate cease to exist, the reporting would revert to the data transmission intervals of once every 15 minutes (Fig. 3). 
+Some examples of abnormal events may include unusal aircraft attitude, unusual speed or an engine failure in flight. 
+NORMAL ABNORMAL OPERATIONS OPERATIONS 
+≤ 15 min. 1 min. 
+Autonomous Distress Tracking 
+The objective of Autonomous Distress Tracking (ADT) is to provide the end- of-flight aircraft position with greater accuracy that will enable the location of the accident site within a range of six nautical miles or a search and rescue region of less than roughly 100 square kilometres. The first priority is to search for survivors and after the search and rescue phase is completed, the second priority is to recover flight data and cockpit voice recorders. 
+The ADT signal shall be triggered automatically by detecting in flight behaviours that are likely to lead to an accident if not corrected, or it can be triggered manually by the crew. Deactivation of the ADT can only be possible using the same activating mechanism that initially activated the ADT transmission. The system should be autonomous so the transmitting system has a back-up power supply, separated from the aircraft’s power in case there is an electrical system failure. This means using a battery with suitable life to sustain the transmission over a given time. It also requires means to autonomously transmit position information if this no longer available from the aircraft. 
+ICAO’s performance-based Standards And Recommended Practices (SARPs) for ADT are applicable from January 2021 for all newly manufactured aircraft. This requires that 3D position information (the altitude parameter is not mandatory for ADT to remain compatible with existing systems), is transmitted at least once every minute. 
+         
+Deactivation of the ADT can 
+only be possible using the same activating mechanism 
+that initially activated the ADT transmission. 
+
+ADT Triggered Transmissions 
+Triggered Transmission is when predefined operational parameters of an aircraft in flight are monitored and data is transmitted automatically if the aircraft is in an uncertain situation, or when an aircraft in distress, meaning that it is in a situation, which if not corrected, will most probably result in an accident. The triggers are defined in the Eurocae Minimum Aviation System Performance Specifications (MASPS ED 237). 
+Examples of Aircraft Tracking Scenarios A 
+(fig.4) 
+Source: ICAO GADSS ConOps 
+Safety First #24 | July 2017 049 
+
+A. Nominal flight from an area under Air Traffic Services (ATS) surveillance to an areas outside of ATS coverage with normal mode 4D/15 Aircraft Tracking (AT) until ATS surveillance is reinstated. 
+B. A flight with an abnormal tracking condition (4D/X) triggered and transmitted outside of ATS surveillance area prior to reinstating ATS surveillance. 
+C. (i) A flight with an abnormal tracking condition (4D/X) triggered and transmitted outside of ATS surveillance area. (ii) A mechanism triggers the Automated Distress Tracking (ADT) transmission. (iii) ADT deactivated but ONLY by the SAME mechanism that activated the ADT. 
+D. (i) A flight with normal tracking or ATS surveillance. (ii) Aircraft situation triggers ADT transmission until the end of flight. (iii) Post Flight Location Recovery (PFLR) 
+  
+
+     
+B 
+C 
+D 
+End of Flight 
+Automated ATS Surveillance 
+Aircraft Tracking 4D/15 
+   
+
+Latitude/Longitude/Altitude/Time transmitted at least once every 15 minutes 
+4D/15 NORMAL TRACKING:4D/X ABNORMAL TRACKING: Latitude/Longitude/Altitude/Time transmitted at least once every minute 
+4D/X 
+Automated ATS Surveillance 
+  
+Aircraft Tracking 4D/15 
+ADT 
+
+4D/X 
+Aircraft Tracking 4D/15 
+  
+... ADT triggering logics 
+were validated using a databaseof flight parameters collected from more than 50-thousand flights ... 
+
+AIRCRAFT 
+Progress to Pinpoint an Aircraft’s Position 
+(fig.5) 
+Example of Normal and Abnormal Aircraft Tracking, Autonomous Distress Tracking and Post Flight Localisation & Recovery 
+Avoiding any false alerts 
+When defining triggering logic, the challenge was to both ensure that all distress events are captured and avoid any “false positives” that could cause unnecessary reactions to a false alarm. In answer to this, Airbus conducted intensive analysis to validate that the parameters and the defined thresholds that would activate a triggered transmission were appropriate. 
+For each of the Airbus aircraft families (A320, A330, A380, A350) the selected ADT triggering logics were validated using a database of flight parameters collected from more than 50-thousand flights of different aircraft types that were flown by several airlines and on a variety of routes. 
+< 15’ 
+NORMAL 4D/15’ 
+<1’ <1’ <1’ <1’ 
+ABNORMAL 4D/1’ 
+AT 
+ADT 
+(Autonomous Distress Tracking) 
+3D*/1’) 
+(Aircraft Tracking) 
+AT Abnormal mode trigerring event ADT trigerring event 
+PFLR 
+(Post Flight Localisation & Recovery) 
+*Altitude is not mandatory for ADT 
+AIRBUS SOLUTIONSFOR AIRCRAFT TRACKING 
+Airbus together with Rockwell Collins have developed an Aircraft Tracking Solution ready for Airlines to implement on the existing Airline Operational Control (AOC) function on Airbus aircraft with ACARS (Aircraft Communications Addressing and Reporting System) communication means. This requires no flight crew action, both for aircraft tracking in Normal mode (sending position at least every 15 minutes) and uses an Airbus optimized triggering logic for tracking Abnormal operations. This is implemented directly in the Rockwell Collins AOC dataframe on all A380 or A350 aircraft and A320 family, A330 and A340 aircraft furnished with Rockwell Collins ATSU (Fig. 6). 
+
+AOC hosted on ATSU A320 / A340 / A330 
+Standard Database 
+Standard Database 
+Tracking functions are compatible with the latest standard database versions 
+AOC hosted on NSS/FSA-NG A380 / A350 XWB 
+ 
+Rockwell Collins 
+AvailablecontactRocwell Collinsfor implementation 
+Airline Customized Database 
+Airline Customized Database 
+AOC supplier implements a customized aircraft tracking function for the Airline 
+A320 / A330 / A340 Aircraft Tracking 
+The AOC application is hosted on the Air Traffic Service Unit (ATSU) for these aircraft. For aircaft fitted with Rockwell Collins furnished ATSU, operators can implement tracking functions compatible with the latest standard database versions, or implement a customised aircraft tracking function specifically defined for the operator. 
+A380 / A350 Aircraft Tracking 
+The AOC application is hosted on the Network Server System (NSS) for the A380 and the A350’s FSA-NG (FlySmart by Airbus - New Generation). Operators can implement a customised aircraft tracking function with the customisation tool with the implementation of this function by Rockwell Collins. 
+A300 / A310 
+Aircraft tracking for the A300 and A310 aircraft can be analysed by Airbus experts on request of the operator to determine a solution that is most suitable for each aircraft’s configuration. 
+Other Aircraft Tracking Solutions Space Based ADS-B 
+All air transport aircraft will be equipped with ADS-B (Automatic Dependent Surveillance – Broadcast) transponders according to various mandates. Recently launched communications satellite constellations are capable of tracking ADS-B signals and global coverage is expected to be in place from 2018 when Aireon completes the placement of space ADS-B receivers on the Iridium NEXT constellation, consisting of 66 Low Earth Orbit (LEO) satellites. A space- based ADS-B receiver network will relay signals from the aircraft to a service provider on the ground. This service will be capable of global real-time ADS-B 
+Customization Tool 
+Customization Tool 
+The Airlinecan implement a customization aircraft tracking function with the customization tool 
+(fig.6) 
+Airbus Aircraft Tracking Solutions thatcan be implemented on the existing Airline Operational Control (AOC) function 
+Rockwell Collins 
+Availablecontact Rocwell Collins for implementation 
+Airline Customized Database 
+Safety First #24 | July 2017 051 
+      
+
+AIRCRAFT 
+Progress to Pinpoint an Aircraft’s Position 
+
+The aim of tracking aircraft in 
+distress is to more precisely establish the location of the aircraft’s end-of- flight, marking the accident site, within a 6 nautical miles radius. 
+surveillance, even when flying over oceanic, polar and remote regions, and no modifications or changes should be necessary for aircraft already equipped with ADS-B transponders. 
+What about GPS navigation? 
+GPS is prolific in our daily lives and modern smart phones give us its locating capabilities in our hands. It is true that most commercial aircraft today have ‘global navigation satellite system’ (GNSS) receivers on board to aid pilots with positioning and navigation. However, this information is telling the crew where their aircraft is but it does not send that information to the ground. GPS (or GNSS position) is however used by many systems on-board the aircraft, ADS-B being one of them. 
+How do flight tracking services show aircraft position for a flight, even over oceans? 
+Flight tracking services, many available as apps on our smartphones, primarily use ADS-B data transmitted by aircraft to ground receivers. Some services also combine data from several data sources to increase the accuracy of their service including ADS-B, multi-lateration (or MLAT) and radar data. While this can often provide the first notification of an event or incident, there are limitations regarding the accuracy of the data as some of the displayed values may be aggregated or estimated depending on the service provider – especially for aircraft shown in the more remote areas with only ADS-B or no coverage. This kind of application alone may not be sufficient for meeting the aircraft tracking objectives of recently defined regulations and ICAO’s recommendations and operators should check with their respective National Aviation Authorities. 
+POST FLIGHT LOCALISATION AND RECOVERY 
+The aim of tracking aircraft in distress is to more precisely establish the location of the aircraft’s end-of-flight, marking the accident site, within a 6 nautical miles radius (roughly 11 kilometres or 7 miles). ICAO requests implementation of means for localising an aircraft in distress from January 2021 for all new manufactured aircraft, and improvements to underwater locator beacons that will increase the chances of locating the wreckage underwater from January 2018. 
+Aids to Locating an Accident Site 
+It is the Autonomous Distress Tracking function that will help to determine the accident site and to launch the search and rescue operations. There is additional equipment installed on the aircraft itself that can aid in pinpointing the precise location of the wreckage and the flight data recorders. 
+Emergency Locator Transmitter (ELT) 
+This article only refers to the automatic fixed ELT and not the portable or survival ELTs that can be found in the cabin. 
+The current fixed ELT is an autonomous beacon including a battery that is fixed to the top of the aircraft’s structure and triggered by impact sensors or the pilot from 
+
+the cockpit. Analysis of past accidents show that the ELT can often be destroyed in the crash or sink too far under water before the Cospas-Sarsat satellites* can pick-up the signal and determine the aircraft’s end-of-flight position. 
+The regulations are evolving to propose improvements to the current ELT and may include pre-crash activation to transmit its position before impact. New generation ELT are currently under definition and development to be ready for implementation from 2021. 
+Underwater Locator Beacon (ULB) 
+ULBs are acoustic beacons that are activated when the aircraft is immersed in water. A ULB is attached to the each flight recorder. 
+ICAO annex 6 requests ULB with minimum of 90 days operation should be fitted to replace the current standard of ULB with 30 days of battery-life at the earliest practical date, but no later than January 2018. Airbus is fitting 90 day ULB to all newly manufactured aircraft and have launched a retrofit campaign with Operators for the existing fleet to install new standard ULB. 
+In addition, ICAO recommends that all operators install the low frequency ULB for all aircraft operating over water from January 2018 and EU regulation makes it mandatory for all aircraft operating over water from January 2019. This new low-frequency (LF) ULB transmits a signal at 8.8 kHz and will be fitted to all new Airbus aircraft from this year. Retrofit of the existing fleet is also planned. When compared with the existing 37.5 kHz ULB, the detection range of the new LF-ULB is increased fourfold, up to 16nm or 29km based on a depth of 3 500m and depending on the surface conditions of the ocean. 
+*Cospas-Sarsat Programme is a satellite-based search and rescue (SAR) distress alert detection and information distribution system, best known for detecting and locating emergency beacons activated by aircraft, ships and backcountry hikers in distress 
+Safety First #24 | July 2017 053 
+
+(fig.7) 
+ICAO Annex Provisions with initial applicability in 2018-2021 
+
+ 
+
+AIRCRAFT 
+Progress to Pinpoint an Aircraft’s Position 
+Airbus will fit a deployable recorder device on its entire fleet of long range aircraft. 
+FINDING THE ‘BLACK BOXES’ 
+There are cases, although rare, where the flight data and cockpit voice recorders, or “black boxes”, were submerged in the ocean and not recovered from the wreckage. In some other cases it took a long time to finally locate the recorders and then retrieve them from the ocean floor three to five kilometres below the surface. To avoid these scenarios in future, Airbus will fit a deployable recorder device on its entire fleet of long range aircraft with an aim to first install it on the A350XWB from 2019. 
+Regulation Drivers for EnhancingFlight Data and Cockpit Voice Recorders 
+Two types of recorders are currently required by the regulations on aircraft flying today. One is the Cockpit Voice Recorder (CVR), which must store the recordings of the cockpit voices and the text messages transmitted between the crew and controllers for the two hours prior to a serious incident or crash. The other is a Digital Flight Data Recorder (DFDR) that must retain the previous 25 hours of recorded flight parameters. 
+The CVR & DFDR are housed in separate units installed in the aircraft. Both are designed to resist impact forces of over 3,400G for 6.5 milliseconds and withstand temperatures of 1,100 degrees Celsius for 60 minutes. The recorders have an integrated Underwater Location Beacon (ULB) (Fig. 8). 
+Recently adopted ICAO Annex 6 amendments propose new performance based requirements for large commercial aircraft applicable from January 2021. For all aircraft manufactured after this date, the CVR fitted must be able to store at least 25 hours of recordings to cover all phases of the flight and in all types of operations. Any aircraft delivered with new type certificate after January 2021 must also be equipped with the means for timely recovery of the flight data and cockpit voice recordings, avoiding the need for underwater retrieval. 
+
+(fig.8) 
+Flight recorder devices installed on aircraft flying today 
+ 
+
+A Combined Cockpit Voice and Flight Data Recorder 
+The ICAO requirement to increase voice recording time from 2 to 25 hours will be the new standard for recorders under development for all Airbus aircraft. These new recorders will combine the flight data and cockpit voice recording functions in a single device capable of storing 25 hours of voice, text communications and flight data. 
+There will be two combined Cockpit Voice and Data Recorders (CVDR) devices fitted to new Airbus aircraft. One CVDR device will be fixed to the structure in the forward area of the aircraft (Fig.8a). A320 family aircraft will have a second CVDR fixed to the structure in its aft area. The second CVDR that will be fitted to the long-range aircraft families (A330, A350 XWB, A380 and including A321-LR) will be an Automatic Deployable Flight Recorder (ADFR) installed in the vertical tail plane area (Fig.9). 
+The Automatic Deployable Flight Recorder 
+Airbus is developing an Automatic Deployable Flight Recorder (ADFR) suitable for its entire fleet of long range aircraft where the aircraft will operate routes over remote areas or oceans for an extended period of time. ADFR will be available from 2019 on A350 XWB aircraft with the subsequent deployment for the remaining long range aircraft families. 
+It is not a new concept as deployable recorders have been used in both military aircraft and commercial helicopter operations for some time, but it is not precisely the same technology that is proposed for commercial aircraft. The principle is to install a lighter, more compact unit that combines the flight data recorder, cockpit voice recorder and an integrated Emergency Locator Transmitter (ELT), which will be deployed from the tail area of the aircraft using a spring loaded device moments before an accident. The device will be deployed if sensors detect airframe deformation or immersion in water. The crash protected recorder will be designed to survive the impact and float on the water, while transmitting its position and allowing the search and rescue services to more rapidly rescue any survivors and discover the wreckage. 
+... new recorders will 
+combine the flight data and cockpit voice recording functions in a single device capable of storing 25 hours 
+of voice, text communications and flight data. 
+Safety First #24 | July 2017 055 
+
+(fig.9) 
+Showing design concepts for (a) combined Cockpit Voice and Data Recorder (CVDR) – right; and (b) the Automatic Deployable Flight Recorder (ADFR) – left. 
+ 
+
+AIRCRAFT 
+Progress to Pinpoint an Aircraft’s Position 
+Data Streaming 
+Increasingly, aircraft seem to be constantly connected in a way that enables passengers to make phone calls in the air, stream live television and use the internet via on-board Wi-Fi. Therefore, is it feasible to stream the aircraft’s Cockpit Voice Recorder and Flight Data Recorder via satellite? 
+Beyond the obvious ease of quickly recovering flight data, an advantage of a satellite streaming solution is the possibility of implementing a retrofit solution for aircraft flying today that are already equipped with the long range communication means. This can enable the timely recovery of flight data and cockpit voice recordings following a serious incident or accident, but the size and regularity of the data transmission over the available satellite bandwidth are to be defined. Although the cost of transmissions is constantly decreasing, agreements regarding usage and coverage of the available satellite constellations also need to be established. 
+Another issue to be addressed is the security of the transmitted data and also the privacy implications concerning streaming cockpit voice recordings. The questions of who owns the data, responsibility to store the data securely, what level of data encryption is required and who will manage the encryption keys for access in normal flight operations or restricted access for investigation of an accident are under discussion today within the ICAO led working groups, which are made up of representatives from all actors in the Air Transport System. 
+More accurate determination of the end-of-flight location reduces the search and rescue perimeter with the hope of finding survivors faster. Improvements to the Underwater Locator Beacon, and installation of the deployable recorders, will increase the chances of locating the submerged wreckage and enable a more timely recovery of flight recorders. This will make data more rapidly available to investigators. 
+Regulations are evolving based on the ICAO recommendations already in place for performance based requirements related to the tracking, localisation and eventual recovery of an aircraft in distress. Airbus is continuing to contribute to the various international working groups and support the standardisation of various aircraft solutions to comply with regulations. Aircraft tracking can be implemented today with fast and simple solutions available now for Airbus aircraft. Aircraft tracking function adds no additional workload for the flight crew. 
+The probability of a aircraft accident occurring is very low today, but if such an event was to occur, for an aircraft fitted with the tracking and localising enhancements described in this article, it is unlikely to be lost. 
+ 
+CONTRIBUTORS: 
+Claude PICHAVANT 
+Senior Expert Communications & Surveillance – Manage Flight Systems 
+Geraldine VALLEE 
+Director of Flight Safety – Safety Enhancement 
+ 
+Safety First #24 | July 2017 057 
+ARTICLES PUBLISHED IN PREVIOUS‘SAFETY FIRST’ ISSUES 
+Issue 23 January 2017 
+Safely Flying Non-Precision Instrument Approaches 
+Introduction to the Soft Go-Around Function 
+Preparing Flight Crews to Face Unexpected Events 
+Safety, Our Shared Destination Issue 20 July 2015 • Control your speed... during climb• Lateral runway excursions upon landing • Fuel monitoring on A320 Family aircraft • Hight-altitude manual flying Issue 17 January 2014 
+Airbus Brake Testing 
+Hard Landing, a Case Study for Crews and Maintenance Personnel 
+Aircraft Protection during Washing and Painting 
+Flight Data Analysis (FDA), a Predictive Tool for Safety Management System (SMS)• Flying a Go-Around, Managing Energy 
+Issue 22 
+July 2016 
+• Pitot Probe Performance Covered On the Ground 
+• 180° turns on runway• Optimum use of weather radar 
+Issue 19 January 2015 
+• Tidy cockpit for safe flight• Landing on contaminated runways• Understanding weight & balance• Wind shear: an invisible enemy to pilots? 
+Issue 16 July 2013 
+• Performance Based Navigation: 
+RNP and RNP AR Approaches • Atlantic Airways: Introduction 
+of RNP AR 0.1 Operations• Flight Crews and De-Icing Personnel 
+– Working together in Temporary 
+Teamwork for safe Skies• Low Speed Rejected Take-Off upon 
+Engine Failure• Late Changes before Departure 
+Issue 21 January 2016 
+• Control your speed... in cruise• Lithium batteries: safe to fly?• Wake vortices• A320 Family Aircraft configuration 
+Issue 18 July 2014 
+• Control your speed... at take-off• Safe operations with composite aircraft • Learning from the evidence• A320 Family cargo Containers/ pallets 
+movement• Parts Departing from Aircraft (PDA) 
+Issue 15 January 2013 
+• The Golden Rules for Pilots moving from PNF to PM 
+• Airbus Crosswind Development and Certification 
+• The SMOKE/FUMES/AVNCS SMOKE Procedure 
+• Post-Maintenance Foreign Objects Damage (FOD) Prevention 
+• Corrosion: 
+A Potential Safety Issue 
+          
+
+Issue 14 
+July 2012 
+Thrust Reverser Selection means Full-Stop 
+Transient Loss of Communication due to Jammed Push-To-Talk A320 and A330/A340 Families 
+A380: Development of the Flight Controls - Part 2 
+Preventing Fan Cowl Door Loss 
+Do not forget that you are not alone in Maintenance Issue 11 January 2011 
+What is Stall? How a Pilot Should React in Front of a Stall Situation 
+Minimum Control Speed Tests on A380 
+Radio Altimeter Erroneous Values 
+Automatic NAV Engagement at Go Around Issue 8 July 2009 
+The Runway Overrun Prevention System 
+The Take-Off Securing Function 
+Computer Mixability: An Important Function 
+Fuel Spills During Refueling Operations 
+Issue 13 January 2012 
+• A320 Family / A330 Prevention and Handling of Dual Bleed Loss 
+• The Fuel Penalty Factor• The Airbus TCAS Alert Prevention 
+(TCAP)• A380: Development of the Flight 
+Controls - Part 1• Facing the Reality of everyday 
+Maintenance Operations 
+Issue 10 August 2010 
+• A380: Flutter Tests• Operational Landing Distances: 
+A New Standard for In-flight Landing 
+Distance Assessment• Go Around Handling• A320: Landing Gear Downlock• Situation Awareness and Decision Making 
+Issue 7 February 2009 
+• Airbus AP/FD TCAS Mode: A New Step Towards Safety Improvement• Braking System Cross Connections 
+Issue 12 July 2011 
+• Airbus New Operational Landing Distances 
+• The Go Around Procedure • The Circling Approach• VMU Tests on A380• Automatic Landings 
+in Daily Operation 
+Issue 9 February 2010 
+• A320 Family: Evolution of Ground Spoiler Logic 
+• Incorrect Pitch Trim Setting at Take-Off • Technical Flight Familiarization• Oxygen Safety 
+Issue 6 July 2008 
+Safety First #24 | July 2017 059 
+         
+• Upset Recovery Training Aid, Revision 2 
+• Fuel Pumps Left in OFF Position • A320: Avoiding Dual Bleed Loss 
+• A320: Prevention of Tailstrikes• Low Fuel Situation Awareness• Rudder Pedal Jam• Why do Certain AMM Tasks Require 
+Equipment Resets?• Slide/raft Improvement• Cabin Attendant Falling through the 
+• 
+• 
+• 
+A320: Runway OverrunFCTL Check after EFCS Reset on Ground A320: Possible Consequence of VMO/ MMO Exceedance 
+Avionics Bay Access Panel in Cockpit 
+ARTICLES PUBLISHED IN PREVIOUS‘SAFETY FIRST’ ISSUES 
+Issue 5 December 2007 
+New CFIT Event During Non Precision Approach 
+A320: Tail Strike at Take-Off? 
+Unreliable Speed 
+Compliance to Operational Procedures 
+The Future Air Navigation System FANS B Issue 2 September 2005 • Tailpipe or Engine Fire• Managing Severe Turbulence• Airbus Pilot Transition (ATP)• Runway Excursions at Take-Off 
+Issue 4 June 2007 
+• Operations Engineering Bulletin Reminder Function 
+• Avoiding High Speed Rejected Take- Offs Due to EGT Limit Exceedance• Do you Know your ATC/TCAS Panel? 
+• Managing Hailstorms• Introducing the Maintenance Briefing 
+Notes• A320: Dual hydraulic Loss• Terrain Awareness and Warning Systems 
+Operations Based on GPS Data 
+Issue 1 January 2005 
+• Go Arounds in Addis-Ababa due to VOR Reception Problems 
+• The Importance of the Pre-flight Flight Control Check 
+• A320: In-flight Thrust Reverser Deployment • Airbus Flight Safety Manager Handbook • Flight Operations Briefing Notes 
+Issue 3 
+December 2006 
+• Dual Side Stick Inputs• Trimmable Horizontal Stabilizer Damage • Pitot Probes Obstruction on Ground• A340: Thrust Reverser Unlocked• Residual Cabin Pressure• Cabin Operations Briefing Notes• Hypoxia: An Invisible Enemy 
+      
+ 
